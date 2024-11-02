@@ -1,3 +1,5 @@
+# Testament of Isaac
+
 ## Chapter 1
 
 Now Isaac the patriarch writes his testament and addresses his words of instruction to his son Jacob and to all those gathered round him. The blessings of the patriarch will be on those who come after us, even those who listen to these words, to these words of instruction and these medicines of life, so that the grace of God may be with all those who believe. This is the end of obedience, as it is written. You have heard a word, let it abide with you—which means that a man should strive patiently with what he hears. God gives grace to those who believe: he who believes the words of God and of his saints will be an inheritor of the Kingdom of God. God has been with the generations gone by, which have passed away, because of their innocence and their faith towards God. He will be with the generations to come also.
