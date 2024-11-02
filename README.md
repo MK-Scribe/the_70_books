@@ -3,13 +3,13 @@
 Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discussion](https://www.reddit.com/r/trueearthscience/comments/1bicrij/are_these_the_70_hidden_books_of_iv_ezra_1446/) [source?](https://web.archive.org/web/20221116184359/https://orthodoxessenejudaism.wordpress.com/2016/04/25/the-70-apocrypha-books-of-ezra/comment-page-1/). 
 
 1. Book of the Words of Adam and Eve (Life of Adam and Eve)
-   - [https://www.gutenberg.org/files/398/398-h/398-h.htm?form=MG0AV3](https://scrollmapper.github.io/scrolls/extrabiblical/1-adam-and-eve/)
+   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/adam-and-eve
 3. Book of the Visions of Enoch (2 Enoch)
-   - [https://web.archive.org/web/20061113025725/http://members.iinet.net.au/~quentinj/Christianity/2Enoch.html](https://scrollmapper.github.io/scrolls/extrabiblical/2-enoch/)
+   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/2-enoch
 5. Book of the Words of Enoch the Prophet (1 Enoch)
-   - https://scrollmapper.github.io/scrolls/extrabiblical/1-enoch/
+   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/1-enoch
 7. Book of the Words of the Fallen Ones (Book of Giants)
-   - https://sacred-texts.com/chr/giants/giants.htm
+   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_giants
 9. Book of the Divisions of the Jubilees Revealed to Abraham (Proto-Jubilees)
     - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/jubilees
 11. Book of the Words of Lamech (Genesis Apocryphon)
