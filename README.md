@@ -1,25 +1,16 @@
 # The 70 Books?
 
-Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discussion](https://www.reddit.com/r/trueearthscience/comments/1bicrij/are_these_the_70_hidden_books_of_iv_ezra_1446/) [source?](https://web.archive.org/web/20221116184359/https://orthodoxessenejudaism.wordpress.com/2016/04/25/the-70-apocrypha-books-of-ezra/comment-page-1/). 
+Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discussion](https://www.reddit.com/r/trueearthscience/comments/1bicrij/are_these_the_70_hidden_books_of_iv_ezra_1446/) [source?](https://web.archive.org/web/20221116184359/https://orthodoxessenejudaism.wordpress.com/2016/04/25/the-70-apocrypha-books-of-ezra/comment-page-1/). 
 
-1. Book of the Words of Adam and Eve (Life of Adam and Eve)
-   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/adam-and-eve
-3. Book of the Visions of Enoch (2 Enoch)
-   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/2-enoch
-5. Book of the Words of Enoch the Prophet (1 Enoch)
-   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/1-enoch
-7. Book of the Words of the Fallen Ones (Book of Giants)
-   - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_giants
-9. Book of the Divisions of the Jubilees Revealed to Abraham (Proto-Jubilees)
-    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/jubilees
-11. Book of the Words of Lamech (Genesis Apocryphon)
-    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
-13. Book of the Words of Noah (Genesis Apocryphon)
-    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
-15. Book of the Words of Abraham (Genesis Apocryphon)
-    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
-17. Book of the Words of Jacob
-    - REJECTED! A mormon document. https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_words_of_jacob
+1. [Book of the Words of Adam and Eve (Life of Adam and Eve)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/adam-and-eve)
+3. [Book of the Visions of Enoch (2 Enoch)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/2-enoch)
+5. [Book of the Words of Enoch the Prophet (1 Enoch)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/1-enoch)
+7. [Book of the Words of the Fallen Ones (Book of Giants)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_giants)
+9. [Book of the Divisions of the Jubilees Revealed to Abraham (Proto-Jubilees)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/jubilees)
+11. [Book of the Words of Lamech (Genesis Apocryphon)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon)
+13. [Book of the Words of Noah (Genesis Apocryphon)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon)
+15. [Book of the Words of Abraham (Genesis Apocryphon)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon)
+17. Book of the Words of Jacob - **REJECTED! A mormon document** ([Link](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_words_of_jacob))
 18. Book of the Words of Joseph
 19. Book of the Divisions of the Jubilees Revealed to Moses (Book of Jubilees)
 20. Book of the Words of Aseneth (Joseph and Aseneth)
@@ -72,13 +63,12 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discus
 67. Book of the Visions of Isaiah (Martyrdom and Ascension of Isaiah)
 68. Book of the Visions of the Seers (Sayings of the Seers)
 69. Book of the Chronicles of the Priestly Calendar (Calendar Texts)
-70. Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)
-71. Book of the 15 Books of the Odes of David (Songs of the Sabbath Sacrifice and Songs For Each Day of the Year and Other Lost Songs of David)
+70. [Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_five_psalms_of_david)
+71. [Book of the 15 Books of the Odes of David (Songs of the Sabbath Sacrifice and Songs For Each Day of the Year and Other Lost Songs of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_songs_of_the_sabbath_sacrifice)
 72. Book of the 39 Books of the Odes and Psalms of Solomon (Odes and Psalms of Solomon and Other Lost Songs of Solomon)
 73. Book of the Wisdom of Solomon (Wisdom of Solomon)
 74. Book of the Four Books of the Proverbs and Riddles of Solomon (Apocryphal Proverbs and Apocryphal Riddles of Solomon)
-75. Book of the Wisdom of Ahikar (Ahikar)
-     - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_wisdom_of_ahikar
+75. [Book of the Wisdom of Ahikar (Ahikar)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_wisdom_of_ahikar)
 76. Book of the 35 Books of the Songs of Israel (Royal Psalms)
 77. Book of the 24 Books of the Lamentations of Israel (Book of the Laments)
 78. Book of the Chronicles of the Kings of Israel (Chronicles of the Kings of Israel)
