@@ -16,8 +16,9 @@ def create_readme_in_folders():
             
             # Write the README.md file
             readme_path = os.path.join(folder_path, "README.md")
-            with open(readme_path, "w") as readme_file:
-                readme_file.write(readme_content)
+            if not os.path.exists(readme_path):
+                with open(readme_path, "w") as readme_file:
+                    readme_file.write(readme_content)
 
 if __name__ == "__main__":
     create_readme_in_folders()
