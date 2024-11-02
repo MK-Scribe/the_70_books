@@ -78,6 +78,7 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discus
 73. Book of the Wisdom of Solomon (Wisdom of Solomon)
 74. Book of the Four Books of the Proverbs and Riddles of Solomon (Apocryphal Proverbs and Apocryphal Riddles of Solomon)
 75. Book of the Wisdom of Ahikar (Ahikar)
+     - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_wisdom_of_ahikar
 76. Book of the 35 Books of the Songs of Israel (Royal Psalms)
 77. Book of the 24 Books of the Lamentations of Israel (Book of the Laments)
 78. Book of the Chronicles of the Kings of Israel (Chronicles of the Kings of Israel)
