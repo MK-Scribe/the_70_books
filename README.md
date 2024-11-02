@@ -19,7 +19,7 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discus
 15. Book of the Words of Abraham (Genesis Apocryphon)
     - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
 17. Book of the Words of Jacob
-    - REJECTED! A mormon document. https://en.wikipedia.org/wiki/Book_of_Jacob?form=MG0AV3
+    - REJECTED! A mormon document. https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_words_of_jacob
 18. Book of the Words of Joseph
 19. Book of the Divisions of the Jubilees Revealed to Moses (Book of Jubilees)
 20. Book of the Words of Aseneth (Joseph and Aseneth)
