@@ -16,4 +16,6 @@ This text is closely related in tone and message to other works such as the **Bo
 
 This text was edited and translated by **James H. Charlesworth**, who contributed significantly to the study and preservation of pseudepigraphal literature.
 
+https://archive.org/details/the-old-testament-pseudepigrapha-vol.-1-charlesworth-1983/page/879/mode/2up
+
 Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts
