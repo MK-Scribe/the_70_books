@@ -30,4 +30,6 @@ The **Testament of Jacob** emphasizes themes of faith, repentance, divine favor,
 
 Through its vivid descriptions and teachings, the **Testament of Jacob** encourages readers to emulate the virtues of the patriarchs, live a life of righteousness, and seek reconciliation and repentance.
 
+This text was edited and translated by **James H. Charlesworth**, who contributed significantly to the study and preservation of pseudepigraphal literature.
+
 Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts

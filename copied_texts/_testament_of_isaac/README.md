@@ -14,5 +14,6 @@ The **Testament of Isaac** is believed to have been written between **200 AD and
 
 This text is closely related in tone and message to other works such as the **Book of Enoch**, the **Testament of Abraham**, and the **Apocalypse of Peter**. These texts share vivid descriptions of the afterlife, divine judgment, and the torments of the wicked, emphasizing the idea of divine justice and the moral consequences of one's actions.
 
+This text was edited and translated by **James H. Charlesworth**, who contributed significantly to the study and preservation of pseudepigraphal literature.
 
 Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts
