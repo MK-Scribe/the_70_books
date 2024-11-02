@@ -19,9 +19,9 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discus
 23. Book of the Words of Balaam (Balaam Inscription)
 24. Book of the Last Words of the Patriarchs Compiled by Shem
 25. Book of the Last Words of Abraham, Isaac, and Jacob (Testaments of Abraham, Isaac, and Jacob)
-     - [Abraham]()
-     - [Isaac] (https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_isaac)
-     - [Jacob](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_the_testament_of_jacob)
+     - Abraham
+     - Isaac https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_isaac
+     - Jacob https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_the_testament_of_jacob
 26. Book of the Last Words of Joseph (Testaments of the Twelve Patriarchs)
 27. Book of the Last Words of Simeon (Testaments of the Twelve Patriarchs)
 28. Book of the Last Words of Reuben (Testaments of the Twelve Patriarchs)
