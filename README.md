@@ -17,7 +17,7 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discus
 13. Book of the Words of Noah (Genesis Apocryphon)
     - https://web.archive.org/web/20240723050439/https://pages.charlotte.edu/john-reeves/course-materials/rels-2104-hebrew-scripturesold-testament/translation-of-1q-genesis-apocryphon/
 15. Book of the Words of Abraham (Genesis Apocryphon)
-   - https://web.archive.org/web/20240723050439/https://pages.charlotte.edu/john-reeves/course-materials/rels-2104-hebrew-scripturesold-testament/translation-of-1q-genesis-apocryphon/
+    - https://web.archive.org/web/20240723050439/https://pages.charlotte.edu/john-reeves/course-materials/rels-2104-hebrew-scripturesold-testament/translation-of-1q-genesis-apocryphon/
 17. Book of the Words of Jacob
 18. Book of the Words of Joseph
 19. Book of the Divisions of the Jubilees Revealed to Moses (Book of Jubilees)
