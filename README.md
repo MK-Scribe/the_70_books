@@ -13,11 +13,11 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discus
 9. Book of the Divisions of the Jubilees Revealed to Abraham (Proto-Jubilees)
     - https://scrollmapper.github.io/scrolls/extrabiblical/jubilees/
 11. Book of the Words of Lamech (Genesis Apocryphon)
-    - https://web.archive.org/web/20240723050439/https://pages.charlotte.edu/john-reeves/course-materials/rels-2104-hebrew-scripturesold-testament/translation-of-1q-genesis-apocryphon/
+    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
 13. Book of the Words of Noah (Genesis Apocryphon)
-    - https://web.archive.org/web/20240723050439/https://pages.charlotte.edu/john-reeves/course-materials/rels-2104-hebrew-scripturesold-testament/translation-of-1q-genesis-apocryphon/
+    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
 15. Book of the Words of Abraham (Genesis Apocryphon)
-    - https://web.archive.org/web/20240723050439/https://pages.charlotte.edu/john-reeves/course-materials/rels-2104-hebrew-scripturesold-testament/translation-of-1q-genesis-apocryphon/
+    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
 17. Book of the Words of Jacob
 18. Book of the Words of Joseph
 19. Book of the Divisions of the Jubilees Revealed to Moses (Book of Jubilees)
