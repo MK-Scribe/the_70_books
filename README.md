@@ -1,6 +1,6 @@
 # The 70 Books?
 
-Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discussion](https://www.reddit.com/r/trueearthscience/comments/1bicrij/are_these_the_70_hidden_books_of_iv_ezra_1446/). 
+Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discussion](https://www.reddit.com/r/trueearthscience/comments/1bicrij/are_these_the_70_hidden_books_of_iv_ezra_1446/) [source?](https://web.archive.org/web/20221116184359/https://orthodoxessenejudaism.wordpress.com/2016/04/25/the-70-apocrypha-books-of-ezra/comment-page-1/). 
 
 1. Book of the Words of Adam and Eve (Life of Adam and Eve)
    - [https://www.gutenberg.org/files/398/398-h/398-h.htm?form=MG0AV3](https://scrollmapper.github.io/scrolls/extrabiblical/1-adam-and-eve/)
@@ -11,7 +11,7 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a reddit discus
 7. Book of the Words of the Fallen Ones (Book of Giants)
    - https://sacred-texts.com/chr/giants/giants.htm
 9. Book of the Divisions of the Jubilees Revealed to Abraham (Proto-Jubilees)
-    - https://scrollmapper.github.io/scrolls/extrabiblical/jubilees/
+    - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/jubilees
 11. Book of the Words of Lamech (Genesis Apocryphon)
     - https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_genesis_apocryphon
 13. Book of the Words of Noah (Genesis Apocryphon)
