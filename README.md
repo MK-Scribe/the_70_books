@@ -39,7 +39,7 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discus
 43. Book of the Words of Moses (Assumption of Moses)
 44. Book of the Last Words of David
 45. Book of the Last Words of Solomon (Testament of Solomon)
-46. Book of the Visions of Joshua (Apocryphon of Joshua)
+46. [Book of the Visions of Joshua (Apocryphon of Joshua)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_apocryphon_of_joshua)
 47. Book of the Words of Salmon
 48. Book of the Words of Boaz
 49. Book of the Words of Obed
