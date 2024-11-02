@@ -1,4 +1,4 @@
-**## 4Q400 Frag. 1 Col. 1**
+## 4Q400 Frag. 1 Col. 1
 
 **[1]** [A text belonging to the Instructor. The song accompanying the sacrifice on the] first [Sabbath,] sung on the fourth of the first month. Praise
 
@@ -41,7 +41,7 @@
 **[20]** [… di]vi[ne] godlike beings, priests of the highest heaven who [dra]w near […]
 
 
-**## 4Q400 Frag. 1 Col. 2**
+## 4Q400 Frag. 1 Col. 2
 
 **[1]** [Your] lofty kingdom […]
 
@@ -86,7 +86,7 @@
 **[21]** to sanctify themselves in […]
 
 
-**## 4Q400 Frag. 2**
+## 4Q400 Frag. 2
 
 **[1]** Wonderfully to praise Your glory among the wise divine beings, extolling Your kingdom among the utterly h[oly.]
 
@@ -103,7 +103,7 @@
 **[7]** holiness? [What] is the praise of our mortal tongue alongside their div[ine] knowledge? […]
 
 
-**## 4Q401 Frags. 1–2**
+## 4Q401 Frags. 1–2
 
 **[1]** A text belonging to the Instructor. The so[ng accompanying the sacrifice on the fourth Sabbath, sung on] the twenty-[fifth] of [the first mo]nth.
 
@@ -116,7 +116,7 @@
 **[5]** the King of the god[like beings …]
 
 
-**## 4Q402 Frag. 1**
+## 4Q402 Frag. 1
 
 **[2]** […] when they come with the godlike beings of
 
@@ -127,7 +127,7 @@
 **[5]** […] for all the rebellious councils […]
 
 
-**## Frags. 3–4**
+## Frags. 3–4
 
 **[5]** They shall be judged […] and they shall not come to the Yahad […]
 
@@ -151,7 +151,7 @@
 
 **[15]** understands what He has designed, for these things are part of His glorious creation, and were [part] of His [plan] before ever they came to be.
 
-**## Mas1k Frag. 1**
+## Mas1k Frag. 1
 
 **[8]** [A text belonging to the Instructor. The son]g accompanying the sacrifice on the sixth Sabbath, sung on the ninth of the [second] month.
 
@@ -164,7 +164,7 @@
 **[12]** […] those called to the highest of heights […]
 
 
-**## Mas1k Frag. 2**
+## Mas1k Frag. 2
 
 **[1]** [A psalm of blessing will be spoken in the language of the first chief prince] to the [eternal] God, [incorporating his language’s seven wondrous blessings. Then he will bless]
 
@@ -177,7 +177,7 @@
 **[5]** [wondrous] exaltation. [A psalm of glorification will be spoken in the language of the]
 
 
-**## 4Q403 Frag. 1 Col. 1 (with Mas1k Frag. 2, 4Q404 Frags. 1–2, and 4Q405 Frag. 3 Col. 2)**
+## 4Q403 Frag. 1 Col. 1 (with Mas1k Frag. 2, 4Q404 Frags. 1–2, and 4Q405 Frag. 3 Col. 2)
 
 **[1]** third chief prince, a glorification of His faithfulness directed to the King of the angels, incorporating his language’s seven wondrous glorifications. Then he will glorify the God of the exalted angels seven times with seven words of wondrous glorification.
 
@@ -235,7 +235,7 @@
 
 **[29]** in the name of His glory, [He who] blesses all who receive blessing, forever.”
 
-**## Mas1k Frag. 1**
+## Mas1k Frag. 1
 
 **[30]** A text belonging to the Instructor. The song accompanying the sacrifice on the seventh Sabbath, sung on the sixteenth of the [second] month. Praise the most high God, you who are exalted among all
 
@@ -272,7 +272,7 @@
 **[46]** [… in a]ll the wondrous temples, divine spirits surrounding the abode of the righteous and true King. All its walls […]
 
 
-**## Mas1k Frag. 2 Col. 2 (with 4Q404 Frag. 6 and 4Q405 Frags. 8–9)**
+## Mas1k Frag. 2 Col. 2 (with 4Q404 Frag. 6 and 4Q405 Frags. 8–9)
 
 **[1]** perfect light, a weaving of an utterly holy spiritual substance […]
 
@@ -306,7 +306,7 @@
 
 **[16]** the chiefs of the divine building. They shall praise Him in His holy innermost sanctum.
 
-**## Mas1k Frag. 1**
+## Mas1k Frag. 1
 
 **[18]** A text belonging to the Instructor. The song accompanying the sacrifice on the eighth Sabbath, sung on the t[wenty-]third [of the second month.] Praise the God of all the highe[st heavens, al]l you who are [eter]nally holy,
 
@@ -332,7 +332,7 @@
 
 **[29]** the sixth; the tongue of the sixth shall sound seven times louder when joined by that of the se[ve]nth; and the tongue of the seventh shall so[und …]
 
-**## Frag. 15 Col. 2 + Frag. 16**
+## Frag. 15 Col. 2 + Frag. 16
 
 **[1]** The fringed edge […]
 
@@ -349,7 +349,7 @@
 **[7]** [… They ex]tol the glorious king with a joyous cry […]
 
 
-**## Frags. 19a–d (with 11Q17 Frags. 12–15)**
+## Frags. 19a–d (with 11Q17 Frags. 12–15)
 
 **[2]** Then the divine figures, the ut[terly holy] spirits, shall praise Him […] the glorious figures, the floor
 
@@ -364,7 +364,7 @@
 **[7]** and their figures are holy angels. From beneath the marvelous inn[ermost sanctums] is heard the quiet voice of god[like] beings praising […]
 
 
-**## Frag. 20 Col. 2 + Frags. 21–22 (with 11Q17 Frags. 3–6)**
+## Frag. 20 Col. 2 + Frags. 21–22 (with 11Q17 Frags. 3–6)
 
 **[1]** They do not hesitate when they arise … the innermost sanc]tums of all the priests who draw near […]
 
@@ -376,7 +376,7 @@
 
 **[5]** perpetual truth and righteousness […] when His glorious chariots move to the […] they do not turn to this side or that [… rather,] they go straight ahead […]
 
-**## 4Q405 Frag. 6**
+## 4Q405 Frag. 6
 
 **[6]** A text belonging to the Instructor. The song accompanying [the sacrifice] on the twelfth Sabbath, sung on the [twenty-first of the third month.] [Praise the God of …]
 
@@ -397,7 +397,7 @@
 **[14]** […] coming out of each of their divisions on [both] sides, and each of the mustered troops rejoices, one by one in order of rank […]
 
 
-**## 11Q17 Frags. 5–6**
+## 11Q17 Frags. 5–6
 
 **[1]** […] wondrous, knowledge and insigh[t …] wondr[ous] firmaments […]
 
@@ -418,7 +418,7 @@
 **[9]** and they cal[l] out […]
 
 
-**## 4Q405 Frag. 23 Col. 1**
+## 4Q405 Frag. 23 Col. 1
 
 **[1]** […] when they lift up praise […]
 
@@ -446,7 +446,7 @@
 
 **[13]** Awesome fear of the King of the godlike beings grips a[ll] of the godlike [when He sends them forth] on all of His commissions according to His veri[ta]ble order, and they go […]
 
-**## 11Q17 Frags. 7–8**
+## 11Q17 Frags. 7–8
 
 **[1]** […] good favor […] all th[eir] works
 
@@ -459,7 +459,7 @@
 **[5]** [… be]auty [… spirits] clothed with embroidery, a sort of wo[ven handiwork …] splendidly purified dyed garments […]
 
 
-**## 4Q405 Frag. 23 Col. 2**
+## 4Q405 Frag. 23 Col. 2
 
 **[7]** their holy places. At their wondrous stations are spirits, clothed with embroidery, a sort of woven handiwork, engraved with splendid figures.
 
@@ -474,7 +474,7 @@
 **[12]** The leaders of the exaltation possess tongues of knowledge [so as] to bless the God of knowledge for all His glorious works. [In] His insightful knowledge and [glo]rious acumen [He has inscribed the ord]inances governing their military units in all the hol[y inn]er [sanctums.]
 
 
-**## 11Q17 Frags. 2 + 1 + 9**
+## 11Q17 Frags. 2 + 1 + 9
 
 **[1]** [… His] glorious heights […] His [gl]ory with […]
 
