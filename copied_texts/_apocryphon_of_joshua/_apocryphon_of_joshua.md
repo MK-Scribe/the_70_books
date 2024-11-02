@@ -1,4 +1,4 @@
-**## Frag. 3 Col. i**
+## Frag. 3 Col. i
 
 **[1]** [...] to make them impure and to [...] them
 
@@ -31,7 +31,7 @@
 **[15]** [...] ... [...]
 
 
-**## Frags. 3 Col. ii + 4**
+## Frags. 3 Col. ii + 4
 
 **[3]** and he brought out [...]
 
@@ -53,7 +53,7 @@
 
 **[12]** to set out in [front of the people ...]
 
-**## Frag. 6 Col. i**
+## Frag. 6 Col. i
 
 **[3]** [...] for in ... [...]
 
@@ -68,7 +68,7 @@
 **[8]** [...] ... and like a father speaks to his son
 
 
-**## Frag. 6 Col. ii**
+## Frag. 6 Col. ii*
 
 **[1]** [... he te]sted me and placed m[e ...]
 
@@ -89,7 +89,7 @@
 **[9]** [...] ... [...]
 
 
-**## Frag. 11**
+## Frag. 11
 
 **[1]** [...] because yhwh [you]r [God] ... [...]
 
@@ -110,7 +110,7 @@
 **[9]** [...] ... and [...]
 
 
-**## Frag. 14**
+## Frag. 14
 
 **[1]** [...] And the children [of Israel] wept [over Moses in the steppes of Moab]
 
@@ -122,7 +122,7 @@
 
 **[5]** [... fe]ar of you and dread of you [...]
 
-**## Frag. 19 Col. ii**
+## Frag. 19 Col. ii
 
 **[2]** [...] ... [...]
 
@@ -137,7 +137,7 @@
 **[7]** [and al]l the chiefs of [...]
 
 
-**## Frag. 22 Col. i**
+## Frag. 22 Col. i
 
 **[1]** [...] Moses, my God. And you did not destroy them for their guilt
 
@@ -150,7 +150,7 @@
 **[5]** [...] compassion with thousands
 
 
-**## Frag. 26**
+## Frag. 26
 
 **[1]** [...] having the knowledge of the Most High and [seeing] the vision [of Shaddai ...]
 
@@ -171,9 +171,9 @@
 **[9]** [...] ... [...] ... [...]
 
 
-**## 4Q379 (4QApocryphon Of Joshua/Psalms Of Joshua)**
+## 4Q379 (4QApocryphon Of Joshua/Psalms Of Joshua)
 
-**## Frag. 1**
+## Frag. 1
 
 **[1]** [...] and you made him exult with twe[lve ...]
 
@@ -190,7 +190,7 @@
 **[7]** [...] ... [...]
 
 
-**## Frag. 3 Col. i**
+## Frag. 3 Col. i
 
 **[1]** [...] Aroer
 
@@ -207,7 +207,7 @@
 **[7]** [...] ... [...]
 
 
-**## Frag. 4**
+## Frag. 4
 
 **[1]** [...] the border of the land of
 
@@ -221,7 +221,7 @@
 
 **[6]** [...] ...
 
-**## Frag. 12**
+## Frag. 12
 
 **[1]** [... the waters] which come down ...
 
@@ -240,7 +240,7 @@
 **[8]** [...] ... [...] ... [...] ... Israel
 
 
-**## Frag. 17**
+## Frag. 17
 
 **[1]** [...] ... [...]
 
@@ -255,7 +255,7 @@
 **[6-7]** [...] ... [...]
 
 
-**## Frag. 18**
+## Frag. 18
 
 **[1]** [...] ... the man ... [...]
 
@@ -272,7 +272,7 @@
 **[7]** [...] my God, I will rely upon all [your] words [...]
 
 
-**## Frag. 22 Col. i**
+## Frag. 22 Col. i
 
 **[2]** [...] his mighty deeds
 
@@ -289,7 +289,7 @@
 **[8]** [...] there is not any
 
 
-**## Frag. 22 Col. ii (cf. 4Q175)**
+## Frag. 22 Col. ii (cf. 4Q175)
 
 **[1]** the man wh[o ...]
 
@@ -320,9 +320,9 @@
 **[15]** [and in the precincts of Jerusalem.] ... [...]
 
 
-**## 4Q522 (4QProphecy Of Joshua)**
+## 4Q522 (4QProphecy Of Joshua)
 
-**## Frag. 3**
+## Frag. 3
 
 **[1]** [...] he will drive [out ...]
 
@@ -333,7 +333,7 @@
 **[4]** [...] ... [...]
 
 
-**## Frag. 8**
+## Frag. 8
 
 **[1]** [... Jud]ah and Sime[on ...] ... [...]
 
@@ -346,7 +346,7 @@
 **[5]** [...] ... [...]
 
 
-**## Frags. 9 Col. i + 10**
+## Frags. 9 Col. i + 10
 
 **[2]** [...] and to Ain Qeber, Bet ...
 
@@ -384,7 +384,7 @@
 
 **[19]** [...] ... [...]
 
-**## Frag. 9 Col. ii**
+## Frag. 9 Col. ii
 
 **[1]** [...] ... [...]
 
@@ -415,9 +415,9 @@
 **[14]** Joshua [... ch]ief of the army ... [...]
 
 
-**## 5Q9 (5QApocryphon Of Joshua)**
+## 5Q9 (5QApocryphon Of Joshua)
 
-**## Frag. 1**
+## Frag. 1
 
 **[1]** [...] and Joshua was [...]
 
@@ -426,7 +426,7 @@
 **[3]** [...] ... [...]
 
 
-**## Frag. 5**
+## Frag. 5
 
 **[1]** [... and] Kochabah and [...]
 
