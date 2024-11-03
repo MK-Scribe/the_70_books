@@ -60,6 +60,8 @@ While it is likely the ancient Jewish people used this work often as scripture, 
 
 He, David's prophet, was from Gibeon, of a Hivite clan. It was he who taught the king the law of the Lord. He foresaw David's sin with Bathsheba, and set out in haste to warn him, but Satan (“Beliar”) thwarted his attempt. He found lying by the road the naked body of a man who had been slain; and while he was detained by this duty, he knew that in that night the king had committed the sin; so he turned back to Gibeon in sorrow. Then when David caused the death of Bathsheba’s husband, the Lord sent Nathan to convict him. He lived to an advanced old age, and when he died he was buried in his own land.
 
+( https://archive.org/stream/SBLMS1/SBLMS1_djvu.txt )
+
 ### References
 
 - Zech 9:12
@@ -69,7 +71,7 @@ He, David's prophet, was from Gibeon, of a Hivite clan. It was he who taught the
 - David's prophet and teacher of the law of Moses was a foreigner, see Josh 9:3-27; 11:19.
 - II Sam 11:6-17.
 
-https://archive.org/stream/SBLMS1/SBLMS1_djvu.txt
+
 
 ## About this text, written by AI:
 
