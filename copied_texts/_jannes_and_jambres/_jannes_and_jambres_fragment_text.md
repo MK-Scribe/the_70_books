@@ -68,6 +68,7 @@ leave of?] his friends having
 urged them all [to ca]re for
 his mother. (Then) he took his
 brother with him to Memphis
+```
 
 ## Extracted Text
 
@@ -139,3 +140,4 @@ leave of?] his friends having
 urged them all [to ca]re for
 his mother. (Then) he took his
 brother with him to Memphis
+```
