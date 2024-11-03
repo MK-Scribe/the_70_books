@@ -67,7 +67,6 @@ He, David's prophet, was from Gibeon, of a Hivite clan. It was he who taught the
 - Zech 9:12
 - Name otherwise unknown (cf. possibly I Sam 1:1?).
 - Judg 2:3-4; 5:23; 6:11-22; 13:11.
-- See Note 62 on the Greek text.
 - David's prophet and teacher of the law of Moses was a foreigner, see Josh 9:3-27; 11:19.
 - II Sam 11:6-17.
 
