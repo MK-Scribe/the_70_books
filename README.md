@@ -6,17 +6,20 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discus
 
 ## Purpose of this Project / Repo
 
-For those who are passing by looking for properly formatted texts to use in various purposes, use discression. These texts are a mixture of many books, some of which cannot be traced back further than the apostles. The purpose of this list of works is twofold:
+For those passing by in search of properly formatted texts for various purposes, exercise discretion. This compilation includes a mixture of many books, some of which cannot be traced back further than the apostles. The purpose of this list of works is twofold:
 
-1. 1 John 4:1 - Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
-2. Find authentic books that might be burried in with all the literature of our world.
+1. **1 John 4:1** - _Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world._
+2. **To find authentic books** that might be buried amidst all the literature of our world.
 
-With that in mind, let us remember a point from Enoch and Ecclesiastes:
+With that in mind, let us remember the warnings from Enoch and Ecclesiastes:
 
-1. Enoch 98:15 - Woe to you who write down lying and godless words; for they write down their lies that men may hear them and act godlessly towards (their) 16 neighbour. Therefore they shall have no peace but die a sudden death.
-2. Ecclesiastes 12:12 - And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
+1. **Enoch 98:15** - _Woe to you who write down lying and godless words; for they write down their lies that men may hear them and act godlessly towards (their) neighbour. Therefore they shall have no peace but die a sudden death._
+2. **Ecclesiastes 12:12** - _And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh._
 
-This search has already been fruitful. For example, the Book of Gad and the Book of Nathan are now in this pile of resources. The **Book of Gad the Seer** was recently discovered among the **Black Jews of Cochin, India**. This ancient manuscript, believed to contain the writings of the biblical prophet Gad, has been preserved by this Jewish community. It has since been translated and published, offering new insights into this previously lost text. These seem quite authentic. For those more interested in genuine lost scriptures, finds like these help to broaden our knowledge. For those who value shrewdness and understanding the nature of false prophets, so as to have awareness against them, the spurious books are also here for perusal. 
+This search has already been fruitful. For example, the **Book of Gad** and the **Book of Nathan** are now part of this resource collection. The **Book of Gad the Seer** was recently discovered among the **Black Jews of Cochin, India**. This ancient manuscript, believed to contain the writings of the biblical prophet Gad, has been preserved by this Jewish community. It has since been translated and published, offering new insights into this previously lost text. These seem quite authentic. 
+
+For those more interested in genuine lost scriptures, finds like these help to broaden our knowledge. For those who value shrewdness and seek to understand the nature of false prophets, so as to be aware of them, the spurious books are also here for **perusal**.
+
 
 ## The Books Listed in the original post / website:
 1. [Book of the Words of Adam and Eve (Life of Adam and Eve)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/adam-and-eve)
