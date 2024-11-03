@@ -23,7 +23,7 @@ The purpose of this study session is to gain a deeper understanding of the **Boo
 
 ### Video Link
 
-[Watch the video on YouTube](https://www.youtube.com/watch?v=_2HxWM27ik8)
+Watch the video on YouTube https://www.youtube.com/watch?v=_2HxWM27ik8
 
 
 ## Copied text:
