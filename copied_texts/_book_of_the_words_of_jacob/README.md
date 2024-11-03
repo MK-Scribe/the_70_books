@@ -6,6 +6,17 @@ The current document that goes by this name appears to be of Mormon origin. If y
 
 We identify all books sourced from the Mormon religion as fraudulent (or heretical, in older terminology).
 
+# Warning: This book might be affiliated with "The Book of Mormon: Another Testament of Jesus Christ"
+
+The title of the Book of Mormon: **"Another Testament of Jesus Christ"** brings to mind a significant biblical warning:
+
+"I marvel that ye are so soon removed from him that called you into the grace of Christ unto **another gospel**: 
+Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. 
+But though we, or an angel from heaven, **preach any other gospel** unto you than that which we have preached unto you, let him be accursed. 
+As we said before, so say I now again, if any man preach any other gospel unto you than that ye have received, let him be accursed."
+
+Considering that the Book of Mormon was purportedly dictated by an angel, this passage from the Bible suggests it might match the description of an accursed message and messenger. Readers are advised to approach texts of Mormon origin with discernment, keeping in mind this biblical warning.
+
 ## AI Generated Summary
 
 ### The Book of the Words of Jacob (Mormon Book of Jacob)
