@@ -78,13 +78,13 @@ For those more interested in genuine lost scriptures, finds like these help to b
 57. Book of the Words of Elijah (Apocalypse of Elijah)
 58. Book of the Words of Elisha
 59. Book of the Words of Tobit (Tobit)
-60. Book of the Visions of Amos
-61. Book of the Visions of Obadiah
-62. Book of the Visions of Jonah
-63. Book of the Visions of Micah
-64. Book of the Visions of Hosea
-65. Book of the Visions of Joel
-66. Book of the Visions of Nahum
+60. **[Biblical/Canonical]** Book of the Visions of Amos
+61. **[Biblical/Canonical]** Book of the Visions of Obadiah
+62. **[Biblical/Canonical]** Book of the Visions of Jonah
+63. **[Biblical/Canonical]** Book of the Visions of Micah
+64. **[Biblical/Canonical]** Book of the Visions of Hosea
+65. **[Biblical/Canonical]** Book of the Visions of Joel
+66. **[Biblical/Canonical]** Book of the Visions of Nahum
 67. Book of the Visions of Isaiah (Martyrdom and Ascension of Isaiah)
 68. Book of the Visions of the Seers (Sayings of the Seers)
 69. Book of the Chronicles of the Priestly Calendar (Calendar Texts)
@@ -95,5 +95,5 @@ For those more interested in genuine lost scriptures, finds like these help to b
 74. Book of the Four Books of the Proverbs and Riddles of Solomon (Apocryphal Proverbs and Apocryphal Riddles of Solomon)
 75. [Book of the Wisdom of Ahikar (Ahikar)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_wisdom_of_ahikar)
 76. Book of the 35 Books of the Songs of Israel (Royal Psalms)
-77. Book of the 24 Books of the Lamentations of Israel (Book of the Laments)
-78. Book of the Chronicles of the Kings of Israel (Chronicles of the Kings of Israel)
+77. **[Biblical/Canonical]** Book of the 24 Books of the Lamentations of Israel (Book of the Laments)
+78. **[Biblical/Canonical]** Book of the Chronicles of the Kings of Israel (Chronicles of the Kings of Israel)
