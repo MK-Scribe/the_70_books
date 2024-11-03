@@ -77,6 +77,7 @@ While it is likely the ancient Jewish people used this work often as scripture, 
 - David's prophet and teacher of the law of Moses was a foreigner, see Josh 9:3-27; 11:19.
 - II Sam 11:6-17.
 
+https://archive.org/stream/SBLMS1/SBLMS1_djvu.txt
 
 ## About this text, written by AI:
 
