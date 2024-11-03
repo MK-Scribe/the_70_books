@@ -18,15 +18,8 @@ The **"Joseph and Asenath"** text likely circulated during the Hellenistic perio
 
 ### Authenticity Debate
 
-#### Suspected as a Fake Text
-
 - **Richard Cole**: "The ultimate provenance of the work is uncertain. Suggestions have ranged from 200 B.C. to 300 A.D. from North Africa in the west through to Palestine and Syria in the east."
 - **Gideon Bohak**: "The geographical location of the story (Heliopolis) and an important Jewish diaspora community centered on a Jewish temple in Leontopolis, located in the nome of Heliopolis during the Ptolemaic period, seeing this as the likely starting point."
-
-#### Validity of the Text
-
-- **Patricia D. Ahearne-Kroll**: "The text provides a unique perspective on the relationship between Joseph and Asenath, offering insights into the cultural and religious dynamics of the time."
-- **David Cook**: "This translation of Joseph and Aseneth is taken from H. F. D. Sparks (ed.), The Apocryphal Old Testament (Oxford: Oxford University Press, 1984), pp. 473-503, and is reproduced here by permission of Oxford University Press."
 
 ## Back to Root
 Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts
