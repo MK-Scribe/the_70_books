@@ -4,13 +4,32 @@
 
 https://ancient-scriptures.fandom.com/wiki/The_Book_Of_Nathan_The_Prophet
 
+### Book of Nathan the Prophet - Weekly Bible Study Session
+
+#### Overview
+
+The video titled **"Book of Nathan the Prophet"** on YouTube is a **weekly Bible study session** held at Lenexa, Kansas. In this session, participants are studying the fragments of the **Book of Nathan the Prophet**, which is referenced in **1 Chronicles 29:29**. The study involves discussions and interpretations of these ancient texts, providing insights into their historical and religious significance.
+
+### Key Points
+
+- **Location**: Lenexa, Kansas
+- **Focus**: Study of the fragments of the Book of Nathan the Prophet
+- **Biblical Reference**: 1 Chronicles 29:29
+- **Content**: Discussions and interpretations of ancient texts
+
+### Purpose
+
+The purpose of this study session is to gain a deeper understanding of the **Book of Nathan the Prophet** and its relevance to biblical history and prophecy. Participants engage in thoughtful discussions and share their interpretations, enhancing their knowledge of this ancient text.
+
+### Video Link
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=_2HxWM27ik8)
+
+
 ## Copied text:
 
 https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_the_book_of_nathan_the_prophet/_the_book_of_nathan_the_prophet.md
 
-## IMPORTANT WARNING NOTE:
-
-Other than the fandom site listed above, **I could not find any other source for this book**. I get the impression it is somewhat of a lazy excerpt, at best, if it is authentic at all. The following was taken from the above mentioned link:
 
 # Synopsis
 ## Mentioned in the Bible
