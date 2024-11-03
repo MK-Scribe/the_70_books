@@ -4,6 +4,10 @@
 
 https://ancient-scriptures.fandom.com/wiki/The_Book_Of_Nathan_The_Prophet
 
+## Copied text:
+
+https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_the_book_of_nathan_the_prophet/_the_book_of_nathan_the_prophet.md
+
 ### Book of Nathan the Prophet - Weekly Bible Study Session
 
 #### Overview
@@ -24,12 +28,6 @@ The purpose of this study session is to gain a deeper understanding of the **Boo
 ### Video Link
 
 Watch the video on YouTube https://www.youtube.com/watch?v=_2HxWM27ik8
-
-
-## Copied text:
-
-https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_the_book_of_nathan_the_prophet/_the_book_of_nathan_the_prophet.md
-
 
 # Synopsis
 ## Mentioned in the Bible
