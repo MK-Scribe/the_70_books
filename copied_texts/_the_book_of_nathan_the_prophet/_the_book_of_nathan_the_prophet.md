@@ -12,7 +12,7 @@ I saw one, a maiden and without touch of man, and a man child in her arms, and t
 
 Keep the commandments of God, O my son Solomon. Study the law of the Lord, walk before him in a perfect heart. God has chosen you, and established you over all the children of Israel. Execute the justice I did not do all these forty years. I admonish you, O my son Solomon, carry out my will, and remember the mystery of YHWH that I saw in a vision of wonders from the Lord of the universe, about his virgin mother, who will emerge from our tribe. I pray that he gives mercy to me and all his creatures in the world.
 
-And David told all this to his son Solomon. He stopped talking, and died a good old age. Solomon gave him a dignified burial, near his fathers, and rendered thanks to God, to whom we give thanksgiving and praise unceasingly and eternally.
+And David told all this to his son Solomon. He stopped talking, and died a good old age. Solomon gave him a dignified burial, near his fathers, and rendered thanks to God, to whom we owe thanksgiving and praise unceasingly and eternally.
 
 ## Fragment 3: Origin of The Ascent Psalms
 
