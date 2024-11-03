@@ -1,3 +1,5 @@
+# Gad the Seer
+
 **Chapter 1**
 
 2923 AM, 1002 BC
