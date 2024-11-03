@@ -8,7 +8,7 @@ https://ancient-scriptures.fandom.com/wiki/The_Book_Of_Nathan_The_Prophet
 
 https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_the_book_of_nathan_the_prophet/_the_book_of_nathan_the_prophet.md
 
-## IMPORTANT NOTE:
+## IMPORTANT WARNING NOTE:
 
 Other than the fandom site listed above, **I could not find any other source for this book**. I get the impression it is somewhat of a lazy excerpt, at best, if it is authentic at all. The following was taken from the above mentioned link:
 
