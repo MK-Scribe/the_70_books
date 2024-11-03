@@ -58,15 +58,7 @@ While it is likely the ancient Jewish people used this work often as scripture, 
 
 ### Nathan
 
-He, David's prophet, was from Gibeon, of a Hivite clan.
-
-It was he who taught the king the law of the Lord. He foresaw David's sin with Bathsheba, and set out in haste to warn him, but Satan (“Beliar”) thwarted his attempt. He found lying by the road the naked body of a man who had been slain;
-
-and while he was detained by this duty, he knew that in that
-
-night the king had committed the sin; so he turned back to Gibeon in sorrow. Then when David caused the death of Bathsheba’s husband, the Lord sent Nathan to convict him.
-
-He lived to an advanced old age, and when he died he was buried in his own land.
+He, David's prophet, was from Gibeon, of a Hivite clan. It was he who taught the king the law of the Lord. He foresaw David's sin with Bathsheba, and set out in haste to warn him, but Satan (“Beliar”) thwarted his attempt. He found lying by the road the naked body of a man who had been slain; and while he was detained by this duty, he knew that in that night the king had committed the sin; so he turned back to Gibeon in sorrow. Then when David caused the death of Bathsheba’s husband, the Lord sent Nathan to convict him. He lived to an advanced old age, and when he died he was buried in his own land.
 
 ### References
 
