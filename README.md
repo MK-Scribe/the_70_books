@@ -2,6 +2,8 @@
 
 Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discussion](https://www.reddit.com/r/trueearthscience/comments/1bicrij/are_these_the_70_hidden_books_of_iv_ezra_1446/) [source?](https://web.archive.org/web/20221116184359/https://orthodoxessenejudaism.wordpress.com/2016/04/25/the-70-apocrypha-books-of-ezra/comment-page-1/). 
 
+## Purpose of this Project / Repo
+
 For those who are passing by looking for properly formatted texts to use in various purposes, use discression. These texts are a mixture of many books, some of which cannot be traced back further than the apostles. The purpose of this list of works is twofold:
 
 1. 1 John 4:1 - Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
