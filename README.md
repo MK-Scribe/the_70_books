@@ -36,7 +36,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 18. Book of the Words of Joseph **REJECTED! A mormon document** ([Link](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_words_of_joseph))
 19. [Book of the Divisions of the Jubilees Revealed to Moses (Book of Jubilees)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/jubilees)
 20. [Book of the Words of Aseneth (Joseph and Aseneth)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_joseph_and_asenath)
-21. Book of the Words of Jannes and Jambres (Jannes and Jambres)
+21. [Book of the Words of Jannes and Jambres (Jannes and Jambres)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres)
 22. Book of the Words of Eldad and Medad (Eldad and Medad)
 23. Book of the Words of Balaam (Balaam Inscription)
 24. Book of the Last Words of the Patriarchs Compiled by Shem
