@@ -16,6 +16,8 @@ With that in mind, let us remember the warnings from Enoch and Ecclesiastes:
 1. **Enoch 98:15** - _Woe to you who write down lying and godless words; for they write down their lies that men may hear them and act godlessly towards (their) neighbour. Therefore they shall have no peace but die a sudden death._
 2. **Ecclesiastes 12:12** - _And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh._
 
+### Benefits already gained...
+
 This search has already been fruitful. For example, the **Book of Gad** and the **Book of Nathan** are now part of this resource collection. The **Book of Gad the Seer** was recently discovered among the **Black Jews of Cochin, India**. This ancient manuscript, believed to contain the writings of the biblical prophet Gad, has been preserved by this Jewish community. It has since been translated and published, offering new insights into this previously lost text. These seem quite authentic. 
 
 For those more interested in genuine lost scriptures, finds like these help to broaden our knowledge. For those who value shrewdness and seek to understand the nature of false prophets, so as to be aware of them, the spurious books are also here for **perusal**.
