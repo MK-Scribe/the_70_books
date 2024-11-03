@@ -54,6 +54,30 @@ Aside from this, a Medieval Romance dubbed the Revelation Of Stephen, quotes fro
 While it is likely the ancient Jewish people used this work often as scripture, it became lost to the scattered nation. Currently, only the Cochin Jews of India own this text, and according to Johnson, view these works as taboo, because of Christian-like themes.
 
 
+## More on Nathan the Prophet
+
+### Nathan
+
+1. He, David's prophet, was from Gibeon, of a Hivite clan.
+
+2. It was he who taught the king the law of the Lord. He foresaw David's sin with Bathsheba, and set out in haste to warn him, but Satan (“Beliar”) thwarted his attempt. He found lying by the road the naked body of a man who had been slain;
+
+3. and while he was detained by this duty, he knew that in that
+
+4. night the king had committed the sin; so he turned back to Gibeon in sorrow. Then when David caused the death of Bathsheba’s husband, the Lord sent Nathan to convict him.
+
+5. He lived to an advanced old age, and when he died he was buried in his own land.
+
+### References
+
+- Zech 9:12
+- Name otherwise unknown (cf. possibly I Sam 1:1?).
+- Judg 2:3-4; 5:23; 6:11-22; 13:11.
+- See Note 62 on the Greek text.
+- David's prophet and teacher of the law of Moses was a foreigner, see Josh 9:3-27; 11:19.
+- II Sam 11:6-17.
+
+
 ## About this text, written by AI:
 
 ### Copyright Note:
