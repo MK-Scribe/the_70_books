@@ -48,7 +48,7 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discus
 49. Book of the Words of Obed
 50. Book of the Visions of Samuel the Seer (Book of Samuel)
 51. [Book of the Visions of Gad the Seer (Book of Gad)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_gad_the_seer)
-52. [Book of the Words of Nathan the Prophet (Book of Nathan) {Unlikely "Translation"}](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_the_book_of_nathan_the_prophet)
+52. [Book of the Words of Nathan the Prophet (Book of Nathan)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_the_book_of_nathan_the_prophet)
 53. Book of the Words of Ahijah the Shilonite (Book of Ahijah)
 54. Book of the Visions of Iddo the Seer (Book of Iddo)
 55. Book of the Words of Shemaiah the Prophet (Book of Shemaiah)
