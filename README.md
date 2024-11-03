@@ -90,7 +90,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 69. Book of the Chronicles of the Priestly Calendar (Calendar Texts)
 70. [Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_five_psalms_of_david)
 71. [Book of the 15 Books of the Odes of David (Songs of the Sabbath Sacrifice and Songs For Each Day of the Year and Other Lost Songs of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_songs_of_the_sabbath_sacrifice)
-72. Book of the 39 Books of the Odes and Psalms of Solomon (Odes and Psalms of Solomon and Other Lost Songs of Solomon)
+72. [Book of the 39 Books of the Odes and Psalms of Solomon (Odes and Psalms of Solomon and Other Lost Songs of Solomon)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_the_odes_of_solomon)
 73. [Book of the Wisdom of Solomon (Wisdom of Solomon)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/wisdom)
 74. Book of the Four Books of the Proverbs and Riddles of Solomon (Apocryphal Proverbs and Apocryphal Riddles of Solomon)
 75. [Book of the Wisdom of Ahikar (Ahikar)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_wisdom_of_ahikar)
