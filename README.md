@@ -66,4 +66,12 @@ Are these the 70 hidden books of IV Ezra 14:46? [A repo based on a Reddit discus
 67. Book of the Visions of Isaiah (Martyrdom and Ascension of Isaiah)
 68. Book of the Visions of the Seers (Sayings of the Seers)
 69. Book of the Chronicles of the Priestly Calendar (Calendar Texts)
-70. [Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)](https://github
+70. [Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_five_psalms_of_david)
+71. [Book of the 15 Books of the Odes of David (Songs of the Sabbath Sacrifice and Songs For Each Day of the Year and Other Lost Songs of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_songs_of_the_sabbath_sacrifice)
+72. Book of the 39 Books of the Odes and Psalms of Solomon (Odes and Psalms of Solomon and Other Lost Songs of Solomon)
+73. Book of the Wisdom of Solomon (Wisdom of Solomon)
+74. Book of the Four Books of the Proverbs and Riddles of Solomon (Apocryphal Proverbs and Apocryphal Riddles of Solomon)
+75. [Book of the Wisdom of Ahikar (Ahikar)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_book_of_the_wisdom_of_ahikar)
+76. Book of the 35 Books of the Songs of Israel (Royal Psalms)
+77. Book of the 24 Books of the Lamentations of Israel (Book of the Laments)
+78. Book of the Chronicles of the Kings of Israel (Chronicles of the Kings of Israel)
