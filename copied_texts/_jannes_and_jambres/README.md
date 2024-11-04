@@ -24,7 +24,7 @@ The complete text, consistent with the fragments mentioned above, is available o
 ### Translated Fragment References
 
 Photographs of the translated fragments can be accessed here:
-[Translated Fragment Images](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres/images)
+[Translated Fragment Images](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_jannes_and_jambres/_jannes_and_jambres_fragment_text.md)
 
 
 ### Historical Context
