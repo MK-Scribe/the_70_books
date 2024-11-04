@@ -8,7 +8,7 @@ https://web.archive.org/web/20220802063550/https://thelostbooks.org/jannes-and-j
 https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_jannes_and_jambres/_jannes_and_jambres.md
 
 ## Translated fragment references:
-https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres/images
+[https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres/images](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_jannes_and_jambres/_jannes_and_jambres_fragment_text.md)
 
 ## Overview
 
