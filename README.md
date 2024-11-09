@@ -74,7 +74,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 53. Book of the Words of Ahijah the Shilonite (Book of Ahijah)
 54. Book of the Visions of Iddo the Seer (Book of Iddo)
 55. Book of the Words of Shemaiah the Prophet (Book of Shemaiah)
-56. Book of the Words of Jehu (Book of Jehu)
+56. Book of the Words of Jehu (Book of Jehu) **[LOST]**
 57. Book of the Words of Elijah (Apocalypse of Elijah)
 58. Book of the Words of Elisha
 59. Book of the Words of Tobit (Tobit)
