@@ -86,7 +86,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 65. Book of the Visions of Joel **[Biblical/Canonical]**
 66. Book of the Visions of Nahum **[Biblical/Canonical]**
 67. Book of the Visions of Isaiah (Martyrdom and Ascension of Isaiah)
-68. Book of the Visions of the Seers (Sayings of the Seers)
+68. Book of the Visions of the Seers (Sayings of the Seers) **[LOST]**
 69. Book of the Chronicles of the Priestly Calendar (Calendar Texts)
 70. [Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_five_psalms_of_david)
 71. [Book of the 15 Books of the Odes of David (Songs of the Sabbath Sacrifice and Songs For Each Day of the Year and Other Lost Songs of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_songs_of_the_sabbath_sacrifice)
