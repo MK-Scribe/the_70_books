@@ -10,7 +10,7 @@ The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal 
 
 **[1:6]** And the high mountains shall be shaken, And the high hills shall be made low, And shall melt like wax before the flame
 
-**[1:7]** And the earth shall be ⌈wholly⌉ rent in sunder, And all that is upon the earth shall perish, And there shall be a judgement upon all (men).
+**[1:7]** And the earth shall be wholly rent in sunder, And all that is upon the earth shall perish, And there shall be a judgement upon all (men).
 
 **[1:8]** But with the righteous He will make peace.
 
