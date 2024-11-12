@@ -76,7 +76,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 55. Book of the Words of Shemaiah the Prophet (Book of Shemaiah) **[LOST]**
 56. Book of the Words of Jehu (Book of Jehu) **[LOST]**
 57. Book of the Words of Elijah (Apocalypse of Elijah)
-58. Book of the Words of Elisha
+58. Book of the Words of Elisha **[UNKNOWN]**
 59. Book of the Words of Tobit (Tobit)
 60. Book of the Visions of Amos **[Biblical/Canonical]**
 61. Book of the Visions of Obadiah **[Biblical/Canonical]**
