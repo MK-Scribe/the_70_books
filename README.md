@@ -38,7 +38,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 20. [Book of the Words of Aseneth (Joseph and Aseneth)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_joseph_and_asenath)
 21. [Book of the Words of Jannes and Jambres (Jannes and Jambres)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres)
 22. Book of the Words of Eldad and Medad (Eldad and Medad) **[LOST]**
-23. Book of the Words of Balaam (Balaam Inscription)
+23. [Book of the Words of Balaam (Balaam Inscription)]
 24. Book of the Last Words of the Patriarchs Compiled by Shem
 25. Book of the Last Words of Abraham, Isaac, and Jacob (Testaments of Abraham, Isaac, and Jacob)
      - [Testament of Abraham](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_abraham)
