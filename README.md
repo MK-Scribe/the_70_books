@@ -38,7 +38,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 20. [Book of the Words of Aseneth (Joseph and Aseneth)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_joseph_and_asenath)
 21. [Book of the Words of Jannes and Jambres (Jannes and Jambres)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres)
 22. Book of the Words of Eldad and Medad (Eldad and Medad) **[LOST]**
-23. [Book of the Words of Balaam (Balaam Inscription)](https://www.sefaria.org/sheets/191651.8?lang=bi)
+23. [Book of the Words of Balaam (Balaam Inscription)]()
 24. Book of the Last Words of the Patriarchs Compiled by Shem
 25. Book of the Last Words of Abraham, Isaac, and Jacob (Testaments of Abraham, Isaac, and Jacob)
      - [Testament of Abraham](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_abraham)
@@ -57,9 +57,9 @@ For those more interested in genuine lost scriptures, finds like these help to b
 36. [Book of the Last Words of Benjamin (Testaments of the Twelve Patriarchs)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/the-testaments-of-the-twelve-patriarchs)
 37. [Book of the Last Words of Levi (Testaments of the Twelve Patriarchs)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/the-testaments-of-the-twelve-patriarchs)
 38. [Book of the Last Words of Kohath (Testament of Kohath)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_kohath)
-39. [Book of the Last Words of Amram (Visions of Amram)](https://pseudepigrapha.org/docs/text/Amram)
+39. [Book of the Last Words of Amram (Visions of Amram)]()
 40. Book of the Last Words of Aaron **[UNKNOWN]**
-41. [Book of the Last Words of Job (Testament of Job)](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/testament-of-job/)
+41. [Book of the Last Words of Job (Testament of Job)]()
 42. Book of the Last Words of Moses (Testament of Moses)
 43. Book of the Words of Moses (Assumption of Moses)
 44. Book of the Last Words of David
