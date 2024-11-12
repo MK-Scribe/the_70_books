@@ -59,7 +59,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 38. [Book of the Last Words of Kohath (Testament of Kohath)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_kohath)
 39. [Book of the Last Words of Amram (Visions of Amram)](https://pseudepigrapha.org/docs/text/Amram)
 40. Book of the Last Words of Aaron **[UNKNOWN]**
-41. Book of the Last Words of Job (Testament of Job)
+41. [Book of the Last Words of Job (Testament of Job)](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/testament-of-job/)
 42. Book of the Last Words of Moses (Testament of Moses)
 43. Book of the Words of Moses (Assumption of Moses)
 44. Book of the Last Words of David
