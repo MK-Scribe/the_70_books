@@ -57,7 +57,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 36. [Book of the Last Words of Benjamin (Testaments of the Twelve Patriarchs)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/the-testaments-of-the-twelve-patriarchs)
 37. [Book of the Last Words of Levi (Testaments of the Twelve Patriarchs)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/the-testaments-of-the-twelve-patriarchs)
 38. [Book of the Last Words of Kohath (Testament of Kohath)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_kohath)
-39. Book of the Last Words of Amram (Visions of Amram)
+39. [Book of the Last Words of Amram (Visions of Amram)](https://pseudepigrapha.org/docs/text/Amram)
 40. Book of the Last Words of Aaron
 41. Book of the Last Words of Job (Testament of Job)
 42. Book of the Last Words of Moses (Testament of Moses)
