@@ -65,7 +65,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 44. Book of the Last Words of David **[2 Samuel 23:1-7?]**
 45. Book of the Last Words of Solomon (Testament of Solomon)
 46. [Book of the Visions of Joshua (Apocryphon of Joshua)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_apocryphon_of_joshua)
-47. Book of the Words of Salmon
+47. Book of the Words of Salmon **[UNKNOWN]**
 48. Book of the Words of Boaz
 49. Book of the Words of Obed
 50. Book of the Visions of Samuel the Seer (Book of Samuel)
