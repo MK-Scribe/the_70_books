@@ -62,7 +62,7 @@ For those more interested in genuine lost scriptures, finds like these help to b
 41. Book of the Last Words of Job (Testament of Job)
 42. Book of the Last Words of Moses (Testament of Moses)
 43. Book of the Words of Moses (Assumption of Moses)
-44. Book of the Last Words of David
+44. Book of the Last Words of David **[2 Samuel 23:1-7?]**
 45. Book of the Last Words of Solomon (Testament of Solomon)
 46. [Book of the Visions of Joshua (Apocryphon of Joshua)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_apocryphon_of_joshua)
 47. Book of the Words of Salmon
