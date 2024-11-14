@@ -37,8 +37,8 @@ For those more interested in genuine lost scriptures, finds like these help to b
 19. [Book of the Divisions of the Jubilees Revealed to Moses (Book of Jubilees)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/jubilees)
 20. [Book of the Words of Aseneth (Joseph and Aseneth)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_joseph_and_asenath)
 21. [Book of the Words of Jannes and Jambres (Jannes and Jambres)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_jannes_and_jambres)
-22. Book of the Words of Eldad and Medad (Eldad and Medad)
-23. Book of the Words of Balaam (Balaam Inscription)
+22. Book of the Words of Eldad and Medad (Eldad and Medad) **[LOST]**
+23. [Book of the Words of Balaam (Balaam Inscription)]
 24. Book of the Last Words of the Patriarchs Compiled by Shem
 25. Book of the Last Words of Abraham, Isaac, and Jacob (Testaments of Abraham, Isaac, and Jacob)
      - [Testament of Abraham](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_abraham)
@@ -57,27 +57,27 @@ For those more interested in genuine lost scriptures, finds like these help to b
 36. [Book of the Last Words of Benjamin (Testaments of the Twelve Patriarchs)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/the-testaments-of-the-twelve-patriarchs)
 37. [Book of the Last Words of Levi (Testaments of the Twelve Patriarchs)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/the-testaments-of-the-twelve-patriarchs)
 38. [Book of the Last Words of Kohath (Testament of Kohath)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_testament_of_kohath)
-39. Book of the Last Words of Amram (Visions of Amram)
-40. Book of the Last Words of Aaron
-41. Book of the Last Words of Job (Testament of Job)
-42. Book of the Last Words of Moses (Testament of Moses)
-43. Book of the Words of Moses (Assumption of Moses)
-44. Book of the Last Words of David
-45. Book of the Last Words of Solomon (Testament of Solomon)
+39. [Book of the Last Words of Amram (Visions of Amram)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_visions_of_amram/_visions_of_amram.md)
+40. Book of the Last Words of Aaron **[UNKNOWN]**
+41. [Book of the Last Words of Job (Testament of Job)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_testament_of_job/_testament_of_job.md)
+42. Book of the Last Words of Moses (Testament of Moses) **[UNKOWN]**
+43. [Book of the Words of Moses (Assumption of Moses)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_the_assumption_of_moses/_the_assumption_of_moses.md)
+44. Book of the Last Words of David **[2 Samuel 23:1-7?]**
+45. [Book of the Last Words of Solomon (Testament of Solomon)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/testament-of-solomon/testament-of-solomon.md)
 46. [Book of the Visions of Joshua (Apocryphon of Joshua)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_apocryphon_of_joshua)
-47. Book of the Words of Salmon
-48. Book of the Words of Boaz
-49. Book of the Words of Obed
+47. Book of the Words of Salmon **[UNKNOWN]**
+48. Book of the Words of Boaz **[UNKNOWN]**
+49. Book of the Words of Obed **[UNKNOWN]**
 50. Book of the Visions of Samuel the Seer (Book of Samuel)
 51. [Book of the Visions of Gad the Seer (Book of Gad)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_gad_the_seer)
 52. [Book of the Words of Nathan the Prophet (Book of Nathan)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_the_book_of_nathan_the_prophet)
-53. Book of the Words of Ahijah the Shilonite (Book of Ahijah)
-54. Book of the Visions of Iddo the Seer (Book of Iddo)
-55. Book of the Words of Shemaiah the Prophet (Book of Shemaiah)
-56. Book of the Words of Jehu (Book of Jehu)
-57. Book of the Words of Elijah (Apocalypse of Elijah)
-58. Book of the Words of Elisha
-59. Book of the Words of Tobit (Tobit)
+53. Book of the Words of Ahijah the Shilonite (Book of Ahijah) **[LOST]**
+54. Book of the Visions of Iddo the Seer (Book of Iddo) **[LOST]**
+55. Book of the Words of Shemaiah the Prophet (Book of Shemaiah) **[LOST]**
+56. Book of the Words of Jehu (Book of Jehu) **[LOST]**
+57. [Book of the Words of Elijah (Apocalypse of Elijah)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/_apocalypse_of_elijah/apocalypse_of_elijah.md)
+58. Book of the Words of Elisha **[UNKNOWN]**
+59. [Book of the Words of Tobit (Tobit)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/tobit/tobit.md)
 60. Book of the Visions of Amos **[Biblical/Canonical]**
 61. Book of the Visions of Obadiah **[Biblical/Canonical]**
 62. Book of the Visions of Jonah **[Biblical/Canonical]**
@@ -85,8 +85,8 @@ For those more interested in genuine lost scriptures, finds like these help to b
 64. Book of the Visions of Hosea **[Biblical/Canonical]**
 65. Book of the Visions of Joel **[Biblical/Canonical]**
 66. Book of the Visions of Nahum **[Biblical/Canonical]**
-67. Book of the Visions of Isaiah (Martyrdom and Ascension of Isaiah)
-68. Book of the Visions of the Seers (Sayings of the Seers)
+67. [Book of the Visions of Isaiah (Martyrdom and Ascension of Isaiah)](https://github.com/LeoBlanchette/the_70_books/blob/main/copied_texts/ascension-of-isaiah/ascension-of-isaiah.md)
+68. Book of the Visions of the Seers (Sayings of the Seers) **[LOST]**
 69. Book of the Chronicles of the Priestly Calendar (Calendar Texts)
 70. [Book of the 80 Books of the Psalms of David (Apocryphal Psalms of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_five_psalms_of_david)
 71. [Book of the 15 Books of the Odes of David (Songs of the Sabbath Sacrifice and Songs For Each Day of the Year and Other Lost Songs of David)](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts/_songs_of_the_sabbath_sacrifice)
