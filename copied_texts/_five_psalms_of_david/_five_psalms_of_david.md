@@ -1,4 +1,4 @@
-## I. Ps. cli. A Thanksgiving of David.
+**[1:0]** I. Ps. cli. A Thanksgiving of David.
 
 **[1:1]** I was the youngest among my brethren, and a youth in my father's house.
 
@@ -17,7 +17,7 @@
 **[1:8]** But I drew his sword and cut off his head, and took away the reproach from the children of Israel.
 
 
-## II. The Prayer of Hezekiah when enemies surrounded him.
+**[2:0]** The Prayer of Hezekiah when enemies surrounded him.
 
 **[2:1]** With a loud voice glorify ye God; in the assembly of many proclaim ye His glory.
 
@@ -54,7 +54,7 @@
 **[2:17]** that He may prolong His dwelling in Zion, and may adorn our age in Jerusalem.
 
 
-## III. When the People obtained permission from Cyrus to return home.
+**[3:0]** When the People obtained permission from Cyrus to return home.
 
 **[3:1]** O Lord, I have cried unto Thee; hearken Thou unto me.
 
@@ -97,7 +97,7 @@
 **[3:20]** Deliver Israel Thine elect, and them of the house of Jacob Thy proved one.
 
 
-## IV. Spoken by David when he was contending with the lion and the wolf which took a sheep from his flock.
+**[4:0]** Spoken by David when he was contending with the lion and the wolf which took a sheep from his flock.
 
 **[4:1]** O God, O God, come to my aid; help Thou me and save me; deliver Thou my soul from the slayer.
 
@@ -112,7 +112,7 @@
 **[4:6]** Quickly, O my Lord (Adonai), send from before Thee a deliverer, and draw me out of the gaping pit, which imprisons me in its depths.
 
 
-## V. Spoken by David when returning thanks to God, who had delivered him from the lion and the wolf and he had slain both of them.
+**[5:0]** Spoken by David when returning thanks to God, who had delivered him from the lion and the wolf and he had slain both of them.
 
 **[5:1]** Praise the Lord, all ye nations; glorify Him, and bless His name:
 
