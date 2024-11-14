@@ -1,6 +1,6 @@
 # The Testament of Kohath
 
-## Column 1
+**[1:0]** Column 1
 
 **[1:1]** [...] God of Gods forever. He will shine His light upon you, and make His great name known to you.
 
@@ -12,7 +12,7 @@
 
 **[1:5]** Be united in truth and walk in uprightness, not with a double heart, but with a sincere heart and a true and good spirit. And give me among yourselves a good name and joy to Levi, joy to Jacob, delight to Isaac, and praise to Abraham. Keep and walk in the inheritance which your fathers gave you: truth, righteousness, uprightness, perfection, holiness, and priesthood, as you were commanded and entrusted.
 
-## Column 2
+**[2:0]** Column 2
 
 **[2:1]** From now and forever, may integrity be found among you.
 

@@ -1,7 +1,5 @@
 # Apocalypse of Elijah
 
-## Chapter 1
-
 **[1:1]** The word of YHWH came to me saying, "Son of man, say to his people, 'Why do you add sin to your sins and anger the Lord God who created you?'"
 **[1:2]** Don't love the world or the things which are in the world, for the boasting of the world and its destruction belong to the devil.
 **[1:3]** Remember that the Lord of glory, Who created everything, had mercy upon you so that He might save us from the captivity of this age.
@@ -32,7 +30,6 @@
 **[1:26]** The one who is double minded in his prayer is darkness to himself. And even the angels do not trust him.
 **[1:27]** Therefore be single-minded in the Lord at all times so that you might know every moment.
 
-## Chapter 2
 **[2:1]** Furthermore, concerning the kings of Assyria and the dissolution of the heaven and the earth and the things beneath the earth.
 **[2:2]** "Now therefore <those who are Mine> will not be overcome" says the Lord, "nor will they fear in the battle."
 **[2:3]** When they see [a king] who rises in the north, [who will be called] "the king of [Assyria" and] "the king of injustice," [he will increase] his battles and his disturbances against Egypt.
@@ -86,7 +83,6 @@
 **[2:45]** Woe to Egypt and those who are in it.
 **[2:46]** In those days, a king will arise in the city
 
-## Chapter 3
 
 **[3:1]** In the fourth year of that king, the son of lawlessness will appear, saying, "I am the Christ," although he is not. Don't believe him!
 **[3:2]** When the Christ comes, He will come in the manner of a covey of doves with the crown of doves surrounding Him. He will walk upon the heaven's vaults with the sign of the cross leading Him.
@@ -107,7 +103,6 @@
 **[3:17]** He will transform himself in every sign. But the signs of his head will not be able to change.
 **[3:18]** Therein you will know that he is the son of lawlessness.
 
-## Chapter 4
 
 **[4:1]** The virgin, whose name is Tabitha, will hear that the shameless one has revealed himself in the holy places. And she will put on her garment of fine linen.
 **[4:2]** And she will pursue him up to Judea, scolding him up to Jerusalem, saying, "O shameless one, O son of lawlessness, O you who have been hostile to all the saints."
@@ -143,7 +138,6 @@
 **[4:32]** He will hear, and he will be angry and command to kindle altars
 **[4:33]** And the righteous ones will be bound. They will be lifted up and burned.
 
-## Chapter 5
 
 **[5:1]** And on that day the heart of many will harden and they will flee from him, saying, "This is not the Christ. The Christ does not kill the righteous. He does not pursue men so that he might seek them, but He persuades them with signs and wonders."
 **[5:2]** On that day the Christ will pity those who are His own. And He will send from heaven his sixty-four thousand angels, each of whom has six wings.
