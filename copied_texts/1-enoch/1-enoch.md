@@ -4,33 +4,33 @@
 
 **[1:1]** The words of the blessing of Enoch, wherewith he blessed the elect and righteous, who will be living in the day of tribulation, when all the wicked and godless are to be removed. **[1:2]** And he took up his parable and said--Enoch a righteous man, whose eyes were opened by God, saw the vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and from them I understood as I saw, but not for this generation, but for a remote one which is for to come. **[1:3]** Concerning the elect I said, and took up my parable concerning them: 
 
-The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal God will tread upon the earth, (even) on Mount Sinai, And appear from His camp And appear in the strength of His might from the heaven of heavens.
+The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal God will tread upon the earth, (even) on Mount Sinai, ⌈And appear from His camp⌉ And appear in the strength of His might from the heaven of heavens.
 
-**[1:5]** And all shall be smitten with fear and the Watchers shall quake, and great fear and trembling shall seize them unto the ends of the earth.
+**[1:5]** And all shall be smitten with fear And the Watchers shall quake, And great fear and trembling shall seize them unto the ends of the earth.
 
-**[1:6]** And the high mountains shall be shaken, and the high hills shall be made low, and shall melt like wax before the flame
+**[1:6]** And the high mountains shall be shaken, And the high hills shall be made low, And shall melt like wax before the flame
 
-**[1:7]** And the earth shall be wholly rent in sunder, and all that is upon the earth shall perish, and there shall be a judgement upon all (men).
+**[1:7]** And the earth shall be wholly rent in sunder, And all that is upon the earth shall perish, And there shall be a judgement upon all (men).
 
 **[1:8]** But with the righteous He will make peace.
 
-And will protect the elect, and mercy shall be upon them.
+And will protect the elect, And mercy shall be upon them.
 
-And they shall all belong to God, and they shall be prospered, and they shall all be blessed.
+And they shall all belong to God, And they shall be prospered, And they shall ⌈all⌉ be blessed.
 
-And He will help them all, and light shall appear unto them, And He will make peace with them.
+⌈And He will help them all⌉, And light shall appear unto them, ⌈And He will make peace with them⌉.
 
-**[1:9]** And behold! He cometh with ten thousands of His holy ones to execute judgement upon all, and to destroy all the ungodly:
+**[1:9]** And behold! He cometh with ten thousands of ⌈His⌉ holy ones To execute judgement upon all, And to destroy ⌈all⌉ the ungodly:
 
-And to convict all flesh of all the works of their ungodliness which they have ungodly committed, and of all the hard things which ungodly sinners have spoken against Him.
-
-
-
-**[2:1]** Observe ye everything that takes place in the heaven, how they do not change their orbits, and the luminaries which are in the heaven, how they all rise and set in order each in its season, and transgress not against their appointed order. **[2:2]** Behold ye the earth, and give heed to the things which take place upon it from first to last, how steadfast they are, how none of the things upon earth change, but all the works of God appear to you. **[2:3]** Behold the summer and the winter, how the whole earth is filled with water, and clouds and dew and rain lie upon it.
+And to convict all flesh Of all the works ⌈of their ungodliness⌉ which they have ungodly committed, And of all the hard things which ungodly sinners ⌈have spoken⌉ against Him.
 
 
 
-**[3:1]** Observe and see how (in the winter) all the trees seem as though they had withered and shed all their leaves, except fourteen trees, which do not lose their foliage but retain the old foliage from two to three years till the new comes.
+**[2:1]** Observe ye everything that takes place in the heaven, how they do not change their orbits, ⌈and⌉ the luminaries which are in the heaven, how they all rise and set in order each in its season, and transgress not against their appointed order. **[2:2]** Behold ye the earth, and give heed to the things which take place upon it from first to last, ⌈how steadfast they are⌉, how ⌈none of the things upon earth⌉ change, ⌈but⌉ all the works of God appear ⌈to you⌉. **[2:3]** Behold the summer and the winter, ⌈⌈how the whole earth is filled with water, and clouds and dew and rain lie upon it⌉⌉.
+
+
+
+**[3:1]** Observe and see how (in the winter) all the trees ⌈⌈seem as though they had withered and shed all their leaves, except fourteen trees, which do not lose their foliage but retain the old foliage from two to three years till the new comes.
 
 
 
@@ -38,27 +38,27 @@ And to convict all flesh of all the works of their ungodliness which they have u
 
 
 
-**[5:1]** Observe ye how the trees cover themselves with green leaves and bear fruit: wherefore give ye heed and know with regard to all His works, and recognize how He that liveth for ever hath made them so.
+**[5:1]** Observe ⌈⌈ye⌉⌉ how the trees cover themselves with green leaves and bear fruit: wherefore give ye heed ⌈and know⌉ with regard to all ⌈His works⌉, and recognize how He that liveth for ever hath made them so.
 
-**[5:2]** And all His works go on thus from year to year for ever, and all the tasks which they accomplish for Him, and their tasks change not, but according as God hath ordained so is it done.
+**[5:2]** And ⌈all⌉ His works go on ⌈thus⌉ from year to year for ever, and all the tasks ⌈which⌉ they accomplish for Him, and ⌈their tasks⌉ change not, but according as ⌈⌈God⌉⌉ hath ordained so is it done.
 
-**[5:3]** And behold how the sea and the rivers in like manner accomplish and change not their tasks from His commandments. 
+**[5:3]** And behold how the sea and the rivers in like manner accomplish and ⌈change not⌉ their tasks ⌈from His commandments⌉. 
 
-**[5:4]** But ye--ye have not been steadfast, nor done the commandments of the Lord, but ye have turned away and spoken proud and hard words With your impure mouths against His greatness. Oh, ye hard-hearted, ye shall find no peace.
+**[5:4]** But ye--ye have not been steadfast, nor done the commandments of the Lord, But ye have turned away and spoken proud and hard words With your impure mouths against His greatness. Oh, ye hard-hearted, ye shall find no peace.
 
-**[5:5]** Therefore shall ye execrate your days, and the years of your life shall perish, and the years of your destruction shall be multiplied in eternal execration, and ye shall find no mercy.
+**[5:5]** Therefore shall ye execrate your days, And the years of your life shall perish, And ⌈the years of your destruction⌉ shall be multiplied in eternal execration, And ye shall find no mercy.
 
-[5:6a] In those days ye shall make your names an eternal execration unto all the righteous, b. And by you shall all who curse, curse, And all the sinners and godless shall imprecate by you, [5:7c] And for you the godless there shall be a curse.
+[5:6a] In those days ye shall make your names an eternal execration unto all the righteous, b. And by you shall ⌈all⌉ who curse, curse, And all the sinners ⌈and godless⌉ shall imprecate by you, [5:7c] And for you the godless there shall be a curse.
 
-[5:6d] And all the . . . shall rejoice, e. and there shall be forgiveness of sins, f. and every mercy and peace and forbearance: g. There shall be salvation unto them, a goodly light. 
+[5:6d] And all the . . . shall rejoice, e. And there shall be forgiveness of sins, f. And every mercy and peace and forbearance: g. There shall be salvation unto them, a goodly light. 
 
-i. And for all of you sinners there shall be no salvation, j but on you all shall abide a curse. [5:7a] But for the elect there shall be light and joy and peace, b. and they shall inherit the earth.
+i. And for all of you sinners there shall be no salvation, j But on you all shall abide a curse. [5:7a] But for the elect there shall be light and joy and peace, b. And they shall inherit the earth.
 
-**[5:8]** And then there shall be bestowed upon the elect wisdom, and they shall all live and never again sin, either through ungodliness or through pride: But they who are wise shall be humble.
+**[5:8]** And then there shall be bestowed upon the elect wisdom, And they shall all live and never again sin, Either through ungodliness or through pride: But they who are wise shall be humble.
 
-**[5:9]** And they shall not again transgress, nor shall they sin all the days of their life, nor shall they die of (the divine) anger or wrath, but they shall complete the number of the days of their life.
+**[5:9]** And they shall not again transgress, Nor shall they sin all the days of their life, Nor shall they die of (the divine) anger or wrath, But they shall complete the number of the days of their life.
 
-And their lives shall be increased in peace, and the years of their joy shall be multiplied, in eternal gladness and peace, all the days of their life.
+And their lives shall be increased in peace, And the years of their joy shall be multiplied, In eternal gladness and peace, All the days of their life.
 
 
 
@@ -66,7 +66,7 @@ And their lives shall be increased in peace, and the years of their joy shall be
 
 
 
-**[7:1]** And all the others together with them took unto themselves wives, and each chose for himself one, and they began to go in unto them and to defile themselves with them, and they taught them charms and enchantments, and the cutting of roots, and made them acquainted with plants. **[7:2]** And they became pregnant, and they bare great giants, whose height was three thousand ells: **[7:3]** Who consumed all the acquisitions of men. And when men could no longer sustain them, **[7:4]** the giants turned against them and devoured mankind. **[7:5]** And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another's flesh, and drink the blood. **[7:6]** Then the earth laid accusation against the lawless ones.
+**[7:1]** And all the others together with them took unto themselves wives, and each chose for himself one, and they began to go in unto them and to defile themselves with them, and they taught them charms and enchantments, and the cutting of roots, and made them acquainted with plants. **[7:2]** And they became pregnant, and they bare great giants, whose height was three thousand ells: **[7:3]** Who consumed all the acquisitions of men. And when men could no longer sustain them, **[7:4]** The giants turned against them and devoured mankind. **[7:5]** And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another's flesh, and drink the blood. **[7:6]** Then the earth laid accusation against the lawless ones.
 
 
 
@@ -78,25 +78,27 @@ And their lives shall be increased in peace, and the years of their joy shall be
 
 
 
-**[10:1]** Then said the Most High, the Holy and Great One spake, and sent Uriel to the son of Lamech, and said to him: **[10:2]** 'Go to Noah and tell him in my name "Hide thyself!" and reveal to him the end that is approaching: that the whole earth will be destroyed, and a deluge is about to come upon the whole earth, and will destroy all that is on it. **[10:3]** And now instruct him that he may escape and his seed may be preserved for all the generations of the world.' **[10:4]** And again the Lord said to Raphael: 'Bind Azâzêl hand and foot, and cast him into the darkness: and make an opening in the desert, which is in Dûdâêl, and cast him therein. **[10:5]** And place upon him rough and jagged rocks, and cover him with darkness, and let him abide there for ever, and cover his face that he may not see light. **[10:6]** And on the day of the great judgement he shall be cast into the fire. **[10:7}** And heal the earth which the angels have corrupted, and proclaim the healing of the earth, that they may heal the plague, and that all the children of men may not perish through all the secret things that the Watchers have disclosed and have taught their sons. **[10:8]** And the whole earth has been corrupted through the works that were taught by Azâzêl: to him ascribe all sin.' **[10:9]** And to Gabriel said the Lord: 'Proceed against the bastards and the reprobates, and against the children of fornication: and destroy the children of fornication and the children of the Watchers from amongst men: and cause them to go forth: send them one against the other that they may destroy each other in battle: for length of days shall they not have. **[10:10]** And no request that they (i.e. their fathers) make of thee shall be granted unto their fathers on their behalf; for they hope to live an eternal life, and that each one of them will live five hundred years.' **[10:11]** And the Lord said unto Michael: 'Go, bind Semjâzâ and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness. **[10:12]** And when their sons have slain one another, and they have seen the destruction of their beloved ones, bind them fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated. **[10:13]** In those days they shall be led off to the abyss of fire: and to the torment and the prison in which they shall be confined for ever. And whosoever shall be condemned and destroyed will from thenceforth be bound together with them to the end of all generations. **[10:15]** And destroy all the spirits of the reprobate and the children of the Watchers, because they have wronged mankind. **[10:16]** Destroy all wrong from the face of the earth and let every evil work come to an end: and let the plant of righteousness and truth appear: and it shall prove a blessing; the works of righteousness and truth shall be planted in truth and joy for evermore. 
+**[10:1]** Then said the Most High, the Holy and Great One spake, and sent Uriel to the son of Lamech, and said to him: **[10:2]** 'Go to Noah and tell him in my name "Hide thyself!" and reveal to him the end that is approaching: that the whole earth will be destroyed, and a deluge is about to come upon the whole earth, and will destroy all that is on it. **[10:3]** And now instruct him that he may escape and his seed may be preserved for all the generations of the world.' **[10:4]** And again the Lord said to Raphael: 'Bind Azâzêl hand and foot, and cast him into the darkness: and make an opening in the desert, which is in Dûdâêl, and cast him therein. **[10:5]** And place upon him rough and jagged rocks, and cover him with darkness, and let him abide there for ever, and cover his face that he may not see light. **[10:6]** And on the day of the great judgement he shall be cast into the fire. And heal the earth which the angels have corrupted, and proclaim the healing of the earth, that they may heal the plague, and that all the children of men may not perish through all the secret things that the Watchers have disclosed and have taught their sons. **[10:8]** And the whole earth has been corrupted through the works that were taught by Azâzêl: to him ascribe all sin.' **[10:9]** And to Gabriel said the Lord: 'Proceed against the bastards and the reprobates, and against the children of fornication: and destroy [the children of fornication and] the children of the Watchers from amongst men [and cause them to go forth]: send them one against the other that they may destroy each other in battle: for length of days shall they not have. **[10:10]** And no request that they (i.e. their fathers) make of thee shall be granted unto their fathers on their behalf; for they hope to live an eternal life, and that each one of them will live five hundred years.' **[10:11]** And the Lord said unto Michael: 'Go, bind Semjâzâ and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness. **[10:12]** And when their sons have slain one another, and they have seen the destruction of their beloved ones, bind them fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated. **[10:13]** In those days they shall be led off to the abyss of fire: 〈and〉 to the torment and the prison in which they shall be confined for ever. And whosoever shall be condemned and destroyed will from thenceforth be bound together with them to the end of all generations. **[10:15]** And destroy all the spirits of the reprobate and the children of the Watchers, because they have wronged mankind. Destroy all wrong from the face of the earth and let every evil work come to an end: and let the plant of righteousness and truth appear: ⌈and it shall prove a blessing; the works of righteousness and truth⌉ shall be planted in truth and joy for evermore. 
 
-**[10:17]** And then shall all the righteous escape, and shall live till they beget thousands of children, and all the days of their youth and their old age shall they complete in peace. 
+**[10:17]** And then shall all the righteous escape, 
+And shall live till they beget thousands of children, 
+And all the days of their youth and their old age shall they complete in peace. 
 
-**[10:18]** And then shall the whole earth be tilled in righteousness, and shall all be planted with trees and be full of blessing. **[10:19]** And all desirable trees shall be planted on it, and they shall plant vines on it: and the vine which they plant thereon shall yield wine in abundance, and as for all the seed which is sown thereon each measure (of it) shall bear a thousand, and each measure of olives shall yield ten presses of oil. **[10:20]** And cleanse thou the earth from all oppression, and from all unrighteousness, and from all sin, and from all godlessness: and all the uncleanness that is wrought upon the earth destroy from off the earth. **[10:21]** And all the children of men shall become righteous, and all nations shall offer adoration and shall praise Me, and all shall worship Me. And the earth shall be cleansed from all defilement, and from all sin, and from all punishment, and from all torment, and I will never again send (them) upon it from generation to generation and for ever.
+**[10:18]** And then shall the whole earth be tilled in righteousness, and shall all be planted with trees and be full of blessing. **[10:19]** And all desirable trees shall be planted on it, and they shall plant vines on it: and the vine which they plant thereon shall yield wine in abundance, and as for all the seed which is sown thereon each measure (of it) shall bear a thousand, and each measure of olives shall yield ten presses of oil. **[10:20]** And cleanse thou the earth from all oppression, and from all unrighteousness, and from all sin, and from all godlessness: and all the uncleanness that is wrought upon the earth destroy from off the earth. **[10:21]** ⌈And all the children of men shall become righteous⌉, and all nations shall offer adoration and shall praise Me, and all shall worship Me. And the earth shall be cleansed from all defilement, and from all sin, and from all punishment, and from all torment, and I will never again send (them) upon it from generation to generation and for ever.
 
 
 
-**[11:1]** And in those days I will open the store chambers of blessing which are in the heaven, so as to send them down upon the earth over the work and labour of the children of men. **[11:2]** And truth and peace shall be associated together throughout all the days of the world and throughout all the generations of men.'
+**[11:1]** And in those days I will open the store chambers of blessing which are in the heaven, so as to send them down ⌈upon the earth⌉ over the work and labour of the children of men. **[11:2]** And truth and peace shall be associated together throughout all the days of the world and throughout all the generations of men.'
 
 
 
 **[12:1]** Before these things Enoch was hidden, and no one of the children of men knew where he was hidden, and where he abode, and what had become of him. **[12:2]** And his activities had to do with the Watchers, and his days were with the holy ones.
 
-**[12:3]** And I Enoch was blessing the Lord of majesty and the King of the ages, and lo! the Watchers called me--Enoch the scribe--and said to me: **[12:4]** 'Enoch, thou scribe of righteousness, go, declare to the Watchers of the heaven who have left the high heaven, the holy eternal place, and have defiled themselves with women, and have done as the children of earth do, and have taken unto themselves wives: "Ye have wrought great destruction on the earth: **[12:5]** And ye shall have no peace nor forgiveness of sin: and inasmuch as they delight themselves in their children, **[12:6]** The murder of their beloved ones shall they see, and over the destruction of their children shall they lament, and shall make supplication unto eternity, but mercy and peace shall ye not attain."'
+**[12:3]** And I, Enoch was blessing the Lord of majesty and the King of the ages, and lo! the Watchers called me--Enoch the scribe--and said to me: **[12:4]** 'Enoch, thou scribe of righteousness, go, †declare† to the Watchers of the heaven who have left the high heaven, the holy eternal place, and have defiled themselves with women, and have done as the children of earth do, and have taken unto themselves wives: "Ye have wrought great destruction on the earth: **[12:5]** And ye shall have no peace nor forgiveness of sin: and inasmuch as †they† delight themselves in †their† children, **[12:6]** The murder of †their† beloved ones shall †they† see, and over the destruction of †their† children shall †they† lament, and shall make supplication unto eternity, but mercy and peace shall ye not attain."'
 
 
 
-**[13:1]** And Enoch went and said: 'Azâzêl, thou shalt have no peace: a severe sentence has gone forth against thee to put thee in bonds: **[13:2]** And thou shalt not have toleration nor request granted to thee, because of the unrighteousness which thou hast taught, and because of all the works of godlessness and unrighteousness and sin which thou hast shown to men.' **[13:3]** Then I went and spoke to them all together, and they were all afraid, and fear and trembling seized them. **[13:4]** And they besought me to draw up a petition for them that they might find forgiveness, and to read their petition in the presence of the Lord of heaven. **[13:5]** For from thenceforward they could not speak (with Him) nor lift up their eyes to heaven for shame of their sins for which they had been condemned. **[13:6]** Then I wrote out their petition, and the prayer in regard to their spirits and their deeds individually and in regard to their requests that they should have forgiveness and length. **[13:7]** And I went off and sat down at the waters of Dan, in the land of Dan, to the south of the west of Hermon: I read their petition till I fell asleep. **[13:8]** And behold a dream came to me, and visions fell down upon me, and I saw visions of chastisement, and a voice came bidding (me) to tell it to the sons of heaven, and reprimand them. **[13:9]** And when I awaked, I came unto them, and they were all sitting gathered together, weeping in 'Abelsjâîl, which is between Lebanon and Sênêsêr, with their faces covered. **[13:10]** And I recounted before them all the visions which I had seen in sleep, and I began to speak the words of righteousness, and to reprimand the heavenly Watchers.
+**[13:1]** And Enoch went and said: 'Azâzêl, thou shalt have no peace: a severe sentence has gone forth against thee to put thee in bonds: **[13:2]** And thou shalt not have toleration nor †request† granted to thee, because of the unrighteousness which thou hast taught, and because of all the works of godlessness and unrighteousness and sin which thou hast shown to men.' **[13:3]** Then I went and spoke to them all together, and they were all afraid, and fear and trembling seized them. **[13:4]** And they besought me to draw up a petition for them that they might find forgiveness, and to read their petition in the presence of the Lord of heaven. **[13:5]** For from thenceforward they could not speak (with Him) nor lift up their eyes to heaven for shame of their sins for which they had been condemned. **[13:6]** Then I wrote out their petition, and the prayer in regard to their spirits and their deeds individually and in regard to their requests that they should have forgiveness and length 〈of days〉†. **[13:7]** And I went off and sat down at the waters of Dan, in the land of Dan, to the south of the west of Hermon: I read their petition till I fell asleep. **[13:8]** And behold a dream came to me, and visions fell down upon me, and I saw visions of chastisement, ⌈and a voice came bidding (me)⌉ I to tell it to the sons of heaven, and reprimand them. **[13:9]** And when I awaked, I came unto them, and they were all sitting gathered together, weeping in 'Abelsjâîl, which is between Lebanon and Sênêsêr, with their faces covered. **[13:10]** And I recounted before them all the visions which I had seen in sleep, and I began to speak the words of righteousness, and to reprimand the heavenly Watchers.
 
 
 
@@ -104,7 +106,7 @@ And their lives shall be increased in peace, and the years of their joy shall be
 
 
 
-**[15:1]** And He answered and said to me, and I heard His voice: 'Fear not, Enoch, thou righteous man and scribe of righteousness: approach hither and hear my voice. **[15:2]** And go, say to ⌈⌈the Watchers of heaven⌉⌉, who have sent thee to intercede ⌈⌈for them: "You should intercede"⌉⌉ for men, and not men for you: **[15:3]** Wherefore have ye left the high, holy, and eternal heaven, and lain with women, and defiled yourselves with the daughters of men and taken to yourselves wives, and done like the children of earth, and begotten giants (as your) sons? **[15:4]** And though ye were holy, spiritual, living the eternal life, you have defiled yourselves with the blood of women, and have begotten (children) with the blood of flesh, and, as the children of men, have lusted after flesh and blood as those ⌈also⌉ do who die and perish. **[15:5]** Therefore have I given them wives also that they might impregnate them, and beget children by them, that thus nothing might be wanting to them on earth. **[15:6]** But you were ⌈formerly⌉ spiritual, living the eternal life, and immortal for all generations of the world. **[15:7]** And therefore I have not appointed wives for you; for as for the spiritual ones of the heaven, in heaven is their dwelling. **[15:8]** And now, the giants, who are produced from the spirits and flesh, shall be called evil spirits upon the earth, and on the earth shall be their dwelling. **[15:9]** Evil spirits have proceeded from their bodies; because they are born from men, ⌈⌈and⌉⌉ from the holy Watchers is their beginning and primal origin; ⌈they shall be evil spirits on earth, and⌉ evil spirits shall they be called. [**[15:10]** As for the spirits of heaven, in heaven shall be their dwelling, but as for the spirits of the earth which were born upon the earth, on the earth shall be their dwelling.] **[15:11]** And the spirits of the giants afflict, oppress, destroy, attack, do battle, and work destruction on the earth, and cause trouble: they take no food, ⌈but nevertheless hunger⌉ and thirst, and cause offences. And these spirits shall rise up against the children of men and against the women, because they have proceeded ⌈from them⌉.
+**[15:1]** And He answered and said to me, and I heard His voice: 'Fear not, Enoch, thou righteous man and scribe of righteousness: approach hither and hear my voice. **[15:2]** And go, say to the Watchers of heaven, who have sent thee to intercede ⌈⌈for them: "You should intercede"⌉⌉ for men, and not men for you: **[15:3]** Wherefore have ye left the high, holy, and eternal heaven, and lain with women, and defiled yourselves with the daughters of men and taken to yourselves wives, and done like the children of earth, and begotten giants (as your) sons? **[15:4]** And though ye were holy, spiritual, living the eternal life, you have defiled yourselves with the blood of women, and have begotten (children) with the blood of flesh, and, as the children of men, have lusted after flesh and blood as those ⌈also⌉ do who die and perish. **[15:5]** Therefore have I given them wives also that they might impregnate them, and beget children by them, that thus nothing might be wanting to them on earth. **[15:6]** But you were ⌈formerly⌉ spiritual, living the eternal life, and immortal for all generations of the world. **[15:7]** And therefore I have not appointed wives for you; for as for the spiritual ones of the heaven, in heaven is their dwelling. **[15:8]** And now, the giants, who are produced from the spirits and flesh, shall be called evil spirits upon the earth, and on the earth shall be their dwelling. **[15:9]** Evil spirits have proceeded from their bodies; because they are born from men, ⌈⌈and⌉⌉ from the holy Watchers is their beginning and primal origin; ⌈they shall be evil spirits on earth, and⌉ evil spirits shall they be called. [**[15:10]** As for the spirits of heaven, in heaven shall be their dwelling, but as for the spirits of the earth which were born upon the earth, on the earth shall be their dwelling.] **[15:11]** And the spirits of the giants afflict, oppress, destroy, attack, do battle, and work destruction on the earth, and cause trouble: they take no food, ⌈but nevertheless hunger⌉ and thirst, and cause offences. And these spirits shall rise up against the children of men and against the women, because they have proceeded ⌈from them⌉.
 
 
 
@@ -120,37 +122,37 @@ And their lives shall be increased in peace, and the years of their joy shall be
 
 
 
-**[19:1]** And Uriel said to me: 'Here shall stand the angels who have connected themselves with women, and their spirits assuming many different forms are defiling mankind and shall lead them astray into sacrificing to demons ⌈⌈as gods⌉⌉, (here shall they stand,) till ⌈⌈the day of⌉⌉ the great judgement in which they shall be judged till they are made an end of. **[19:2]** And the women also of the angels who went astray shall become sirens.' **[19:3]** And I, Enoch, alone saw the vision, the ends of all things: and no man shall see as I have seen.
+**[19:1]** And Uriel said to me: 'Here shall stand the angels who have connected themselves with women, and their spirits assuming many different forms are defiling mankind and shall lead them astray into sacrificing to demons as gods, (here shall they stand,) till the day of the great judgement in which they shall be judged till they are made an end of. **[19:2]** And the women also of the angels who went astray shall become sirens.' **[19:3]** And I, Enoch, alone saw the vision, the ends of all things: and no man shall see as I have seen.
 
 
 
-**[20:1]** And these are the names of the holy angels who watch. **[20:2]** Uriel, one of the holy angels, who is over the world and over Tartarus. **[20:3]** Raphael, one of the holy angels, who is over the spirits of men. **[20:4]** Raguel, one of the holy angels who †takes vengeance on† the world of the luminaries. **[20:5]** Michael, one of the holy angels, to wit, he that is set over the best part of mankind ⌈⌈and⌉⌉ over chaos. **[20:6]** Saraqâêl, one of the holy angels, who is set over the spirits, who sin in the spirit. **[20:7]** Gabriel, one of the holy angels, who is over Paradise and the serpents and the Cherubim. **[20:8]** Remiel, one of the holy angels, whom God set over those who rise.
+**[20:1]** And these are the names of the holy angels who watch. **[20:2]** Uriel, one of the holy angels, who is over the world and over Tartarus. **[20:3]** Raphael, one of the holy angels, who is over the spirits of men. **[20:4]** Raguel, one of the holy angels who takes vengeance on the world of the luminaries. **[20:5]** Michael, one of the holy angels, to wit, he that is set over the best part of mankind and over chaos. **[20:6]** Saraqâêl, one of the holy angels, who is set over the spirits, who sin in the spirit. **[20:7]** Gabriel, one of the holy angels, who is over Paradise and the serpents and the Cherubim. **[20:8]** Remiel, one of the holy angels, whom God set over those who rise.
 
 
 
-**[21:1]** And I proceeded to where things were chaotic. **[21:2]** And I saw there something horrible: I saw neither a heaven above nor a firmly founded earth, but a place chaotic and horrible. **[21:3]** And there I saw seven stars of the heaven bound together in it, like great mountains and burning with fire. **[21:4]** Then I said: 'For what sin are they bound, and on what account have they been cast in hither?' **[21:5]** Then said Uriel, one of the holy angels, who was with me, and was chief over them, and said: 'Enoch, why dost thou ask, and why art thou eager for the truth? **[21:6]** These are of the number of the stars ⌈of heaven⌉, which have transgressed the commandment of the Lord, and are bound here till ten thousand years, the time entailed by their sins, are consummated.' **[21:7]** And from thence I went to another place, which was still more horrible than the former, and I saw a horrible thing: a great fire there which burnt and blazed, and the place was cleft as far as the abyss, being full of great descending columns of fire: neither its extent or magnitude could I see, nor could I conjecture. **[21:8]** Then I said: 'How fearful is the place and how terrible to look upon!' **[21:9]** Then Uriel answered me, one of the holy angels who was with me, and said unto me: 'Enoch, why hast thou such fear and affright?' And I answered: 'Because of this fearful place, and because of the spectacle of the pain.' **[21:10]** And he said ⌈⌈unto me⌉⌉: 'This place is the prison of the angels, and here they will be imprisoned for ever.'
+**[21:1]** And I proceeded to where things were chaotic. **[21:2]** And I saw there something horrible: I saw neither a heaven above nor a firmly founded earth, but a place chaotic and horrible. **[21:3]** And there I saw seven stars of the heaven bound together in it, like great mountains and burning with fire. **[21:4]** Then I said: 'For what sin are they bound, and on what account have they been cast in hither?' **[21:5]** Then said Uriel, one of the holy angels, who was with me, and was chief over them, and said: 'Enoch, why dost thou ask, and why art thou eager for the truth? **[21:6]** These are of the number of the stars of heaven, which have transgressed the commandment of the Lord, and are bound here till ten thousand years, the time entailed by their sins, are consummated.' **[21:7]** And from thence I went to another place, which was still more horrible than the former, and I saw a horrible thing: a great fire there which burnt and blazed, and the place was cleft as far as the abyss, being full of great descending columns of fire: neither its extent or magnitude could I see, nor could I conjecture. **[21:8]** Then I said: 'How fearful is the place and how terrible to look upon!' **[21:9]** Then Uriel answered me, one of the holy angels who was with me, and said unto me: 'Enoch, why hast thou such fear and affright?' And I answered: 'Because of this fearful place, and because of the spectacle of the pain.' **[21:10]** And he said unto me: 'This place is the prison of the angels, and here they will be imprisoned for ever.'
 
 
 
-**[22:1]** And thence I went to another place, and he showed me in the west ⌈another⌉ great and high mountain [and] of hard rock. 
+**[22:1]** And thence I went to another place, and he showed me in the west another great and high mountain and  of hard rock. 
 
- E 
+ **E**
 
-**[22:2]** And there was in it †four† hollow places, deep and wide and very smooth. †How† smooth are the hollow places and deep and dark to look at. 
+**[22:2]** And there was in it four hollow places, deep and wide and very smooth. How smooth are the hollow places and deep and dark to look at. 
 
-Gg 
+**Gg**
 
-**[22:2]** And there were †four† hollow places in it, deep and very smooth: †three† of them were dark and one bright; and there was a fountain of water in its midst. And I said: '†How† smooth are these hollow places, and deep and dark to view.' 
+**[22:2]** And there were four hollow places in it, deep and very smooth: three of them were dark and one bright; and there was a fountain of water in its midst. And I said: 'How smooth are these hollow places, and deep and dark to view.' 
 
  
 
-**[22:3]** Then Raphael answered, one of the holy angels who was with me, and said unto me: 'These hollow places have been created for this very purpose, that the spirits of the souls of the dead should assemble therein, yea that all the souls of the children of men should assemble here. And these places have been made to receive them till the day of their judgement and till their appointed period ⌈till the period appointed⌉, till the great judgement (comes) upon them.' 
+**[22:3]** Then Raphael answered, one of the holy angels who was with me, and said unto me: 'These hollow places have been created for this very purpose, that the spirits of the souls of the dead should assemble therein, yea that all the souls of the children of men should assemble here. **[22:4]** And these places have been made to receive them till the day of their judgement and till their appointed period ⌈till the period appointed⌉, till the great judgement (comes) upon them.' 
 
- E 
+ **E** 
 
 **[22:5]** I saw the spirits of the children of men who were dead, and their voice went forth to heaven and made suit. **[22:6]** Then I asked Raphael the angel who was with me, and I said unto him: 'This spirit--whose is it whose voice goeth forth and maketh suit?' 
 
- Gg 
+ **Gg** 
 
 **[22:5]** I saw (the spirit of) a dead man making suit, and his voice went forth to heaven and made suit. **[22:6]** And I asked Raphael the angel who was with me, and I said unto him: 'This spirit which maketh suit, whose is it, whose voice goeth forth and maketh suit to heaven?' 
 
@@ -158,9 +160,9 @@ Gg 
 
 **[22:7]** And he answered me saying: 'This is the spirit which went forth from Abel, whom his brother Cain slew, and he makes his suit against him till his seed is destroyed from the face of the earth, and his seed is annihilated from amongst the seed of men.' 
 
-E 
+**E** 
 
-**[22:8]** Then I asked regarding it, and regarding all the hollow places: 'Why as one separated from the other?'
+**[22:8]** Then I asked regarding it, and regarding all the hollow places: 'Why is one separated from the other?'
 
 **[22:9]** And he answered me and said unto me: 'These three have been made that the spirits of the dead might be separated. And such a division has been made 〈for〉 the spirits of the righteous, in which there as the bright spring of water. **[22:10]** And such has 
 
